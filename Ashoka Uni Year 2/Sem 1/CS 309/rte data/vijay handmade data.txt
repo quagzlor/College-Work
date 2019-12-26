@@ -1,0 +1,100 @@
+1	Cats are clean and are not noisy.	Cats are dirty and are not noisy.	42	CONTRADICTION
+2	He had to stop playing poker.	He had to start playing poker.	42	CONTRADICTION
+3	He told me to hurry.	He told me to relax.	42	CONTRADICTION
+4	The roads were impassable.	The roads were navigable.	42	CONTRADICTION
+5	The river stole the gods.	The river borrowed the gods.	42	CONTRADICTION
+6	"It was getting dark, and we weren’t there yet."	"It was getting light, and we were there."	42	CONTRADICTION
+7	Joe made sugar cookies.	Joe made raisin cookies.	42	CONTRADICTION
+8	She advised him.	She cautioned him.	42	CONTRADICTION
+9	She must work two jobs to make ends meet.	She works one job to relax.	42	CONTRADICTION
+10	We shall start class now.	We shall start class in a few minutes.	42	CONTRADICTION
+11	We have a lot of rain.	The rain is light.	42	CONTRADICTION
+12	Please wait outside the house.	Please wait inside the house.	42	CONTRADICTION
+13	A song can make or ruin a day.	A song cannot make or ruin a day.	42	CONTRADICTION
+14	I checked to make sure that he was still alive.	I checked to make sure he was dead.	42	CONTRADICTION
+15	"I would have gotten the promotion, but my attendance was not good enough."	"I would have gotten the promotion, but my attendance too good."	42	CONTRADICTION
+16	"He turned in the research paper on Friday; otherwise, he would have not passed the class."	"He had not turned in the research paper on Friday; otherwise, he would have passed the class."	42	CONTRADICTION
+17	"I want to buy a onesie, but it won’t suit me."	"I want to buy a onesie, it will suit me."	42	CONTRADICTION
+18	I will never be this young again.	I will be young again.	42	CONTRADICTION
+19	"Everyone was busy, so I went to the movie alone."	"Everyone was busy, so I went to the movie with a dog."	42	CONTRADICTION
+20	The sky is clear; the stars are twinkling.	The sky is cloudy; the stars are hidden.	42	CONTRADICTION
+21	She only paints with bold colours.	She paints with pastels.	42	CONTRADICTION
+22	I love eating toasted cheese.	I love eating warmed cheese.	42	CONTRADICTION
+23	This works.	This does not work.	42	CONTRADICTION
+24	Sometimes it is better to walk away.	Sometimes it is better to stay.	42	CONTRADICTION
+25	I find clocks useful.	Clocks are evil and useless.	42	CONTRADICTION
+26	The table is on the apple.	The apple is on the table.	42	CONTRADICTION
+27	Random sentences are hard to write.	Random sentences are easy to write.	42	CONTRADICTION
+28	Purple people eaters exist.	Purple people eaters may exist.	42	CONTRADICTION
+29	"When I was little, I had a car door slammed on my hand."	"When I was little, I had a cat slammed on my hand."	42	CONTRADICTION
+30	This is not a math test.	This is probably a math test.	42	CONTRADICTION
+31	Why milk a cow.	Why not milk a cow.	42	CONTRADICTION
+32	Christmas is tomorrow.	Christmas is today.	42	CONTRADICTION
+33	"He didn’t want to go to the dentist, yet he went anyway."	"He didn’t want to go to the dentist, so he didn't go."	42	CONTRADICTION
+34	We have never been to Asia.	We just returned from Asia.	42	CONTRADICTION
+35	This is the last random sentence.	The is the second last random sentence.	42	CONTRADICTION
+36	Tom got a small piece of pie.	Tome got a large piece of pie.	42	CONTRADICTION
+37	Sometimes you just need to laugh it off.	Sometimes you need to take revenge.	42	CONTRADICTION
+38	Don't step on the broken glass.	Don't step on the lego pieces.	42	CONTRADICTION
+39	The old apple revels in its authority.	The old apple revels in its ignonimity.	42	CONTRADICTION
+40	This is a beautiful Japanese doll.	This is an ugly Japanese doll.	42	CONTRADICTION
+41	"He said he was not there yesterday; however, many people saw him there."	"He said he was not there yesterday; however, no people saw him there."	42	CONTRADICTION
+42	A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.	A purple pig and a green donkey flew a kite in the middle of the day and ended up sunburnt.	42	CONTRADICTION
+43	"She wrote him a long letter, but he didn't read it."	"She wrote him a brief letter, but he didn't read it."	42	CONTRADICTION
+44	We need to rent a room for our party.	We need to rent two rooms for our party.	42	CONTRADICTION
+45	Mary plays the bass.	Mary plays the piano.	42	CONTRADICTION
+46	Rock music approaches at high velocity.	Rock music approaches at low velocity.	42	CONTRADICTION
+47	I currently have several windows open.	I currently have one window open.	42	CONTRADICTION
+48	She always speaks to him in a loud voice.	She always speak to him in a soft voice.	42	CONTRADICTION
+49	I am never at home on Sundays.	I am always at home on Sundays.	42	CONTRADICTION
+50	Malls are great places to shop.	Malls are terrible places to shop.	42	CONTRADICTION
+51	She folded her handkershief neatly.	She folded her handkershief sloppily.	42	CONTRADICTION
+52	I saw a striped lizard.	I saw a striped zebra.	42	CONTRADICTION
+53	I am very proud of my nickname.	I do no have a nickname.	42	CONTRADICTION
+54	Six people want bread.	A few people want bread.	42	CONTRADICTION
+55	The lake is a long way from here.	The lake is close by.	42	CONTRADICTION
+56	I hear that Nancy is gorgeous.	I hear that Nancy is plain.	42	CONTRADICTION
+57	The audio diary records his voice.	The mysterious diary records his voice.	42	CONTRADICTION
+58	The clock within the blog is fast by one hour.	The clock within the blog is slow by one hour.	42	CONTRADICTION
+59	I want more detailed information.	I want simpler information.	42	CONTRADICTION
+60	Italy is my favourite country.	Italy is my least favourite country.	42	CONTRADICTION
+61	Random thoughts are random.	Random thoughts are thought out.	42	CONTRADICTION
+62	The memory we used to share is no longer coherent.	The memory we used to share is clear.	42	CONTRADICTION
+63	"Yeah, I think it is the best environment for learning English."	"Yeah, I think it is an okay environment for learning English."	42	CONTRADICTION
+64	The quick brown fox jumps over the lazy dog.	The lazy brown fox jumps over the quick dog.	42	CONTRADICTION
+65	Try combining tomato sauce and tuna.	Try separating tomato sauce and tuna.	42	CONTRADICTION
+66	I will buy the red car.	I will lease the blue car.	42	CONTRADICTION
+67	the book is in front of the table.	the table is in front of the book.	42	CONTRADICTION
+68	let me carry your baggage.	let me drop your baggage.	42	CONTRADICTION
+69	it is free.	it is paid.	42	CONTRADICTION
+70	any donation is appreciated.	large donations are appreciated.	42	CONTRADICTION
+71	the shooter said goodbye to his school	the shooter said hello to his school	42	CONTRADICTION
+72	the waves crashing on the shore made a lovely sight.	the waves crashing on the shore made a noisy sight.	42	CONTRADICTION
+73	let us all be unique	let us all be similar	42	CONTRADICTION
+74	he told us of an exciting adventure	he told us of an exciting nap	42	CONTRADICTION
+75	she borrowed the book from him many years ago	she borrow the book from him yesterday	42	CONTRADICTION
+76	"they got there early, and got good seats"	"they got there early, and got bad seats"	42	CONTRADICTION
+77	Wednesday is hump day	wednseday is not hump day	42	CONTRADICTION
+78	she did her best to help	she did not help	42	CONTRADICTION
+79	The mind boggles.	The mind understands	42	CONTRADICTION
+80	She was too short to see over the fence.	she saw over the fence.	42	CONTRADICTION
+81	there was no ice cream in the freezer	the freezer was full of ice cream	42	CONTRADICTION
+82	she did not cheat on the test	she cheated on the test	42	CONTRADICTION
+83	two seats were vacant	all seats were occupied	42	CONTRADICTION
+84	I really want desert	I do not want desert	42	CONTRADICTION
+85	maple syrup and buttered popcorn is amazing	maple syrup and buttered popcorn is terrible	42	CONTRADICTION
+86	"I want to work, but am too sick to drive."	"I want to work, but my car is broken."	42	CONTRADICTION
+87	my mum is cool.	my mum is warm.	42	CONTRADICTION
+88	I will avoid things I do not like	I will embrace things I do not like	42	CONTRADICTION
+89	the stranger officiates the meal	the host officiates the meal	42	CONTRADICTION
+90	"check back tomorrow, the book should have arrived"	"check back in ten years, the book should have arrived"	42	CONTRADICTION
+91	"if the easter bunny and tooth fairy had babies, I would kill myself."	"if the easter bunny and tooth fairies killed themselves, they would have babies."	42	CONTRADICTION
+92	I would rather be a bird than a fish	I would rather be a fish than a bird	42	CONTRADICTION
+93	ashish is a good lad	ashish is a bad lad	42	CONTRADICTION
+94	it was getting dark	It was getting light	42	CONTRADICTION
+95	I am running out of sentences	I have several sentences left	42	CONTRADICTION
+96	this will work	this will never work	42	CONTRADICTION
+97	mayukh is bad boy	mayukh is good boy	42	CONTRADICTION
+98	I am gaining weight	I am losing weight	42	CONTRADICTION
+99	the world shall soon end	the world has a long time left	42	CONTRADICTION
+100	this is the end	this is only the beginning	42	CONTRADICTION

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entailment-corpus>
+<pair id="4" task="IE" contradiction="NO">
+<t>Meanwhile, in an exclusive interview with a TIME journalist, the first one-on-one session given to a Western print publication since his election as president of Iran earlier this year, Ahmadinejad attacked the "threat" to bring the issue of Iran's nuclear activity to the UN Security Council by the US, France, Britain and Germany.</t>
+<h>Ahmedinejad was never attacked by the US, France, Britain and Germany.</h>
+</pair>
+<pair id="87" task="IE" contradiction="YES">
+<t>Mexico City (Mexico), 12 Jan 90 (DPA) - Salvadoran Social Democratic politician Hector Oqueli Colindres was kidnapped today, in Guatemala city, along with Guatemalan Social Democratic leader Gilda Flores, his party, in Mexico City, reported.</t>
+<h>Hector Oqueli Colindres does not come from El Salvador.</h>
+</pair>
+<pair id="90" task="IE" contradiction="NO">
+<t>From Joss Stone to Keith Richards to Sting, the artists joining Les on the rock-charged album share one clear common bond: Les Paul is one of their most respected and beloved mentors.</t>
+<h>Eric Clapton is not in business with Les Paul.</h>
+</pair>
+<pair id="166" task="IE" contradiction="YES">
+<t>Although Schneider's father, Marvin, died of complications from diabetes only two weeks after "Deuce Bigalow" was released, his Filipino mother Pilar continues to live in Pacifica.</t>
+<h>Pilar is not the mother of Schneider.</h>
+</pair>
+<pair id="171" task="IE" contradiction="NO">
+<t>Hinostroza's children told police that four hooded individuals broke into the house and shot their mother after having insulted her.</t>
+<h>Hinostroza's children never attaked their mother with a gun.</h>
+</pair>
+<pair id="178" task="IE" contradiction="YES">
+<t>A Russian Soyuz spacecraft docked with the International Space Station, after a two-day flight from the Baikonur Cosmodrome in Kazakhstan.</t>
+<h>Soyuz spacecraft were never built by Russia.</h>
+</pair>
+<pair id="182" task="IE" contradiction="YES">
+<t>But according to Dr. Williams, other members of the panel have championed other ideas, for example, that planets should be larger than 2,000 kilometers (or about 1,250 miles) in diameter (Pluto is about 1,500 miles).</t>
+<h>The diameter of Pluto does not measure 1,500 miles. </h>
+</pair>
+<pair id="210" task="IE" contradiction="YES">
+<t>As a result, peptic ulcer disease has been transformed from a chronic, frequently disabling condition to one that can be cured by a short regimen of antibiotics and other medicines.</t>
+<h>Antibiotics are not used against peptic ulcer.</h>
+</pair>
+<pair id="213" task="IE" contradiction="NO">
+<t>Alan Mulally, Boeing's head of the unit, said at the start of the strike that it may cause delivery delays that would give Airbus SAS an advantage in what is the strongest commercial aircraft market in five years.</t>
+<h>Boeing will never be a subsidiary of Airbus SAS.</h>
+</pair>
+<pair id="220" task="IE" contradiction="YES">
+<t>Two persons were injured in dynamite attacks perpetrated this evening against two bank branches in this northwestern, Colombian city.</t>
+<h>No two bank branches were attacked with dynamite.</h>
+</pair>
+<pair id="231" task="IE" contradiction="YES">
+<t>Speaking of Jean Charles de Menezes, who was chased by armed officers into the station and shot five times at close range, his cousin, Alex Pereira, hinted today that his family would sue Scotland Yard over the killing.</t>
+<h>Jean Charles de Menezes is not related to Alex Pereira.</h>
+</pair>
+<pair id="232" task="IE" contradiction="NO">
+<t>Thanks to the recent acquisition of J.D. Edwards, Oracle will soon be able to run JDE apps on its Fusion Middleware platform, too.</t>
+<h>J.D.E. will never be the owner of Oracle.</h>
+</pair>
+<pair id="240" task="IE" contradiction="YES">
+<t>Helena Brighton, an attorney for Eliza May who served as executive director of the Texas Funeral Services Commission -the state agency that regulates the funeral business- claimed that she was fired from her state job because she raised questions about SCI.</t>
+<h>Eliza May never hired Helena Brighton.</h>
+</pair>
+<pair id="244" task="IE" contradiction="YES">
+<t>The evidence for the continuing accretion of gas by the Milky Way involves high-velocity clouds, or HVCs--mysterious clumps of hydrogen, moving rapidly through the outer regions of the galaxy.</t>
+<h>High-velocity clouds are not made up of hydrogen.</h>
+</pair>
+<pair id="259" task="IE" contradiction="NO">
+<t>Earlier this year, Kai-Uwe Ricke, chief executive of Deutsche Telekom, floated the possibility that T-Mobile USA might be sold.</t>
+<h>Deutsche Telekom will never sell T-Mobile USA.</h>
+</pair>
+<pair id="262" task="IE" contradiction="YES">
+<t>Martin was given water to drink, then taken to New Orleans Ochsner Foundation Hospital, where nurse Jinny Resor said he was treated for dehydration.</t>
+<h>Ochsner Foundation Hospital is not located in New Orleans.</h>
+</pair>
+<pair id="266" task="IE" contradiction="NO">
+<t>Nelson Beavers is a co-owner of the current company, Carolina Analytical Laboratories LLC. and has ownership/employment history with Woodson-Tenent and Eurofin.</t>
+<h>Nelson Beaver has never been staff at Carolina Analytical Laboratories.</h>
+</pair>
+<pair id="285" task="IE" contradiction="YES">
+<t>He also developed a breath test that could detect sulfur compounds emitted from the H. pylori.</t>
+<h>The H. pylori does not produce sulphur compounds.</h>
+</pair>
+<pair id="345" task="IE" contradiction="NO">
+<t>Craig Conway, fired as PeopleSoft's chief executive officer before the company was bought by Oracle, was in England last week.</t>
+<h>Craig Conway will never work for Oracle.</h>
+</pair>
+<pair id="358" task="IE" contradiction="YES">
+<t>The biopic of wannabe actor, Johnny Stompanato, may be directed by Adrian Lyne of "Fatal Attraction" and "Indecent Proposal" fame.</t>
+<h>Adrian Lyne is not the director of "Indecent Proposal".</h>
+</pair>
+<pair id="392" task="IE" contradiction="YES">
+<t>Nicholas Cage's wife, Alice Kim Cage, gave birth Monday, to a boy, Kal-el Coppola Cage, in New York City, said Cage's Los Angeles-based publicist, Annett Wolf. No other details were available.</t>
+<h>Nicholas Cage is not married to Alice Kim Cage.</h>
+</pair>
+<pair id="409" task="IE" contradiction="NO">
+<t>Vinicio Cerezo tacitly blamed president Alfredo Cristiani's administration for the crisis which prevails in the country as a result of the Farabundo Marti National Liberation Front's (FMLN) offensive. Meanwhile, Morales Ehrlich blamed the extreme- right, death-squads of El Salvador for the assassination of six Jesuit priests at the Central American University.</t>
+<h>Farabundo Marti National Liberation Front has never been suspected of the assassination of six Jesuit priests.</h>
+</pair>
+<pair id="410" task="IE" contradiction="YES">
+<t>The solar system is much more complicated now, astronomers say, than in 1930 when Clyde Tombaugh added Pluto to the inventory of wandering lights circling the Sun.</t>
+<h>Pluto was not discovered by Clyde Tombaugh.</h>
+</pair>
+<pair id="414" task="IE" contradiction="YES">
+<t>The Southeast Asian ministers gather in Laos for their regional meeting.</t>
+<h>Southeast Asian ministers' meeting is not held in Laos.</h>
+</pair>
+<pair id="428" task="IE" contradiction="NO">
+<t>Sir Ian Blair, the Metropolitan Police Commissioner, said, last night, that his officers were "playing out of their socks", but admitted that they were "racing against time" to track down the bombers.</t>
+<h>No officers belong to Sir Ian Blair's family.</h>
+</pair>
+<pair id="434" task="IE" contradiction="YES">
+<t>Self-sufficiency has been turned into a formal public awareness campaign in San Francisco, by Mayor Gavin Newsom.</t>
+<h>Gavin Newsom is not a politician of San Francisco.</h>
+</pair>
+<pair id="451" task="IE" contradiction="NO">
+<t>Ordonez Reyes accused Jose Jesus Pena, alleged chief of security for the Nicaraguan embassy in Tegucigalpa, of masterminding the January 7th assassination of contra-commander Manuel Antonio Rugama. </t>
+<h>Manuel Antonio Rugama was not killed by Jose Jesus Pena.</h>
+</pair>
+<pair id="481" task="IE" contradiction="YES">
+<t>Lima, Jan. 10, '90 - The national police reported that over 15,000 people have been arrested in Lima in a dragnet aimed at uncovering the assassins of former Defense Minister Enrique Lopez Albujar Trint, who was murdered in a terrorist attack, yesterday.</t>
+<h>Enrique Lopez Albujar Trint was not killed on Jan. 9 '90.</h>
+</pair>
+<pair id="491" task="IE" contradiction="NO">
+<t>U.S. policy on drug trafficking is not consistent with the need to put an end and actively repress the consumption of drugs. The solution is not based on the destruction of a native plant, coca, in the continent, but on an active fight against the Colombian drug mafia, which has created a great money and crime empire in Colombia with powerful ramifications outside its borders.</t>
+<h>No native plant is destroyed by the Colombian drug mafia.</h>
+</pair>
+<pair id="573" task="IE" contradiction="YES">
+<t>But Rajeev Dhawan, director of the Economic Forecasting Center at Georgia State University, says the main issue ahead is higher inflation. </t>
+<h>The Economic Forecasting Center is not located in Georgia.</h>
+</pair>
+<pair id="613" task="IE" contradiction="YES">
+<t>"No, we don't get any business from beach traffic," said Butler, whose Men's Shop is located in a small strip mall behind Krispy Kreme on Palmetto.</t>
+<h>No Men's Shop is owned by Butler.</h>
+</pair>
+<pair id="653" task="IE" contradiction="NO">
+<t>Mr. Olsen paid $20 million for the space trip, but says that in the future space travel will likely become as routine as air travel is today.</t>
+<h>Air travel never costs $20 million.</h>
+</pair>
+<pair id="670" task="IE" contradiction="YES">
+<t>A member of the Burmese delegation, Thaung Tun, told reporters on the eve of the meeting that his government did not wish to place ASEAN in a difficult position by insisting on assuming the chairmanship.</t>
+<h>Thaung Tun is not a representative of Burma.</h>
+</pair>
+<pair id="712" task="IE" contradiction="YES">
+<t>"I think we've already seen the effect on oil and gas prices," said economist Kathleen Camilli of New York-based Camilli Economics.</t>
+<h>Kathleen Camilli does not work for Camilli Economics.</h>
+</pair>
+<pair id="731" task="IE" contradiction="NO">
+<t>Microsoft Corp. and Intel Corp., on Monday, threw their weight behind the next-generation, HD DVD format being promoted by Toshiba Corp., in a blow to Sony Corp.'s Blu-ray format.</t>
+<h>Microsoft Corp. did not invent the next generation HD DVD format.</h>
+</pair>
+<pair id="780" task="IE" contradiction="YES">
+<t>Valero Energy Corp., on Monday, said it found "extensive" additional damage at its 250,000-barrel-per-day Port Arthur refinery.</t>
+<h>Valero Energy Corp. never produces 250,000 barrels per day.</h>
+</pair>
+<pair id="1" task="IR" contradiction="NO">
+<t>As a result of these weaknesses, computer systems and the operations that rely on the systems were highly vulnerable to tampering, disruption, and misuse from both internal and external sources. </t>
+<h>Non-authorized personnel have never illegally entered into computer networks.</h>
+</pair>
+<pair id="106" task="IR" contradiction="YES">
+<t>Ocean colour satellite remote sensing has developed rapidly within the last five years and satellite imagery is now processed automatically and made available via the WWW. </t>
+<h>Ocean remote sensing is not developed. </h>
+</pair>
+<pair id="138" task="IR" contradiction="YES">
+<t>US military forces are evacuating U.S. citizens and citizens of 72 other countries from Liberia at the request of the U.S.</t>
+<h>U.S. Military did not evacuate U.S. citizens.</h>
+</pair>
+<pair id="164" task="IR" contradiction="NO">
+<t>US troops evacuated two injured soldiers said Staff Sgt. Duane Brown, a spokesman for the 42nd Infantry Division.</t>
+<h>U.S. Military never evacuated U.S. citizens.</h>
+</pair>
+<pair id="191" task="IR" contradiction="NO">
+<t>The introduction of the euro has dismantled barriers to cross-border trading and enhanced risk sharing and opportunities for diversification.</t>
+<h>The introduction of the euro has never been opposed.</h>
+</pair>
+<pair id="219" task="IR" contradiction="YES">
+<t>Only a few Mag-lev trains have been used commercially such as at the Birmingham airport in the UK.</t>
+<h>Maglev is not commercially used.</h>
+</pair>
+<pair id="228" task="IR" contradiction="NO">
+<t>A new report indicates that women's participation in decision-making in the country is minimal.</t>
+<h>Women are not poorly represented in parliament.</h>
+</pair>
+<pair id="243" task="IR" contradiction="NO">
+<t>The ivory ban was imposed by CITES in 1989 after a wave of poaching across Africa saw elephant numbers fall from an estimated 1.3 million to a few hundred thousand. </t>
+<h>The ban on ivory trade has not been effective in protecting the elephant from extinction.</h>
+</pair>
+<pair id="255" task="IR" contradiction="NO">
+<t>Humic acids are complex organic molecules formed by the breakdown of organic matter in the soil. They are not considered to be fertilizers, but soil enhancers and improvers.</t>
+<h>Organic fertilizers are never used as soil enhancers.</h>
+</pair>
+<pair id="263" task="IR" contradiction="NO">
+<t>A massive polio immunization drive is under way in more than 20 nations of West and Central Africa, but in Cote d'Ivoire violence has forced a postponement of the vaccination campaign, the Global Polio Eradication Initiative (GPEI) announced November 18.</t>
+<h>Polio is not under control in the world.</h>
+</pair>
+<pair id="271" task="IR" contradiction="YES">
+<t>The May 3 ferry sinking in the Meghna River that claimed the lives of at least 370 people is a reminder of the dangers inherent in this sort of travel. </t>
+<h>100 or more people did not lose their lives in a ferry sinking.</h>
+</pair>
+<pair id="351" task="IR" contradiction="NO">
+<t>Meteorological observations suggest Claudette remained a tropical storm as she affected parts of west Texas. </t>
+<h>A tropical storm has not caused significant property damage.</h>
+</pair>
+<pair id="371" task="IR" contradiction="YES">
+<t>The ivory ban has been successful. Demand for ivory has dropped and elephant populations expanded dramatically in areas where they were virtually extinct.</t>
+<h>The ban on ivory trade has not been effective in protecting the elephant from extinction.</h>
+</pair>
+<pair id="462" task="IR" contradiction="YES">
+<t>The development of agriculture by early humans, roughly 10,000 years ago, was also harmful to many natural ecosystems as they were systematically destroyed and replaced with artificial versions.</t>
+<h>Humans did not exist 10,000 years ago.</h>
+</pair>
+<pair id="467" task="IR" contradiction="YES">
+<t>Public health and animal health officials from the Departments of Health and Community Services and Forest Resources and Agrifoods today confirmed a rabies case involving a red fox in western Newfoundland.	</t>
+<h>No case of rabies was confirmed.</h>
+</pair>
+<pair id="516" task="IR" contradiction="NO">
+<t>Lt. Mark Banks, of Savannah, Ga., tends to a patient who was medically evacuated by U.S. Navy helicopter to a temporary triage site in Aceh, Sumatra, Indonesia.</t>
+<h>U.S. Military does not evacuate U.S. citizens.</h>
+</pair>
+<pair id="517" task="IR" contradiction="NO">
+<t> Women are poorly trained for politics. </t>
+<h>Women are not poorly represented in parliament.</h>
+</pair>
+<pair id="584" task="IR" contradiction="YES">
+<t>Hydroponics is the growth of plants in a substance other than soil with water.</t>
+<h>Plants are never grown in substances other than soil.</h>
+</pair>
+<pair id="588" task="IR" contradiction="NO">
+<t>Security forces gunned down six Maoists; while the rebels killed a policeman and an abducted civilian drowned escaping from the Maoists, say latest insurgency related reports.</t>
+<h>No civilian policeman was killed. </h>
+</pair>
+<pair id="592" task="IR" contradiction="NO">
+<t>Women are poorly represented in transactions financed by mortgage bonds. </t>
+<h>Women are not poorly represented in parliament.</h>
+</pair>
+<pair id="624" task="IR" contradiction="NO">
+<t>Some other objections to legalization point to the greater dangers of family violence, reckless driving, or reckless operation of subways and so on. </t>
+<h>Drug legalization has no benefits.</h>
+</pair>
+<pair id="693" task="IR" contradiction="NO">
+<t>They, too, have not produced a practical, commercially acceptable maglev.</t>
+<h>Maglev will never be commercially used.</h>
+</pair>
+<pair id="697" task="IR" contradiction="NO">
+<t>20 million years ago there were apes, and by 5 million years ago our closest ancestors and cousins, early ape-humans, had split from the other apes.</t>
+<h>Humans did not exist 10,000 years ago.</h>
+</pair>
+<pair id="700" task="IR" contradiction="NO">
+<t>INS predicts that the smuggling will continue to increase and that alien smuggling organizations will become more sophisticated, organized, and complex.</t>
+<h>No steps are being taken to stop the smuggling of aliens.</h>
+</pair>
+<pair id="710" task="IR" contradiction="YES">
+<t>World Bank programs have been heavily criticized for many years for resulting in poverty.</t>
+<h>The World Bank is never criticized for its activities.</h>
+</pair>
+<pair id="723" task="IR" contradiction="NO">
+<t>Primary prevention of Alzheimer's disease is not possible at present. </t>
+<h>Alzheimer's disease is not treated using drugs.  </h>
+</pair>
+<pair id="725" task="IR" contradiction="YES">
+<t>The German technology was employed to build Shanghai's existing maglev line, the first in the world to be used commercially.</t>
+<h>Maglev is not commercially used.</h>
+</pair>
+<pair id="735" task="IR" contradiction="NO">
+<t>Actual statistics about the deterrent value of capital punishment are not available because it is impossible to know who may have been deterred from committing a crime.</t>
+<h>Capital punishment is not a deterrent to crime.</h>
+</pair>
+<pair id="748" task="IR" contradiction="NO">
+<t>After the polio cases were identified, public health officials in the Dominican Republic and Haiti began giving the vaccines to large numbers of children. Public health officials now say the disease is under control and is not a public health threat.</t>
+<h>Polio is not under control in the world.</h>
+</pair>
+<pair id="42" task="QA" contradiction="NO">
+<t>Perhaps there is no expansion, at least not due to a big bang which never happened. About 20 years ago, Halton Arp and John Bahcall published a debate in The Redshift Controversy, presenting both sides of the argument.</t>
+<h>We never estimated that the Big Bang happened 20 years ago. </h>
+</pair>
+<pair id="45" task="QA" contradiction="YES">
+<t>The international humanitarian aid organization, Doctors Without Borders/Medecins Sans Frontieres (MSF), continues to treat victims of violence in all locations where it is present in Darfur.</t>
+<h>Doctors Without Borders is not an international aid organization.</h>
+</pair>
+<pair id="71" task="QA" contradiction="YES">
+<t>In support of the Earth Island Institute rebuttal, Greenpeace founder Don White made the following - unfortunately prophetic - public statement on 8/18/93. </t>
+<h>Don White is not the founder of Greenpeace.</h>
+</pair>
+<pair id="78" task="QA" contradiction="YES">
+<t>German automaker, Volkswagen AG, launched a special collector's edition of its original Beetle, on Thursday, to mark the end of the line for the most popular car in history.</t>
+<h>Volkswagen AG does not produce the 'Beetle'.</h>
+</pair>
+<pair id="84" task="QA" contradiction="NO">
+<t>Jacques Santer succeeded Jacques Delors as president of the European Commission in 1995, the second Luxembourger to hold this high office.</t>
+<h>Jacques Delors will never succeed Jacques Santer in the presidency of the European Commission.</h>
+</pair>
+<pair id="101" task="QA" contradiction="YES">
+<t>Vatican spokesman Joaquin Navarro-Valls announced that Pope John Paul was still in serious condition, but he was not in a coma. </t>
+<h>Joaquin Navarro-Valls is not the Vatican Spokesman.</h>
+</pair>
+<pair id="125" task="QA" contradiction="NO">
+<t>Released in 1995, Tyson returned to boxing, winning the World Boxing Council title in 1996. The same year, however, he lost to Evander Holyfield, and in a 1997 rematch bit Holyfield's ear, for which he was temporarily banned from boxing.</t>
+<h>In 1996 Mike Tyson never bit Holyfield's ear.</h>
+</pair>
+<pair id="145" task="QA" contradiction="NO">
+<t>When Adolf Hitler heard of how Mussolini was executed and put on public display, he vowed he would not let this happen to him. Hitler shot his mistress and new wife, Eva Braunn, and then swallowing some poison, he shot himself in the mouth.</t>
+<h>Mussolini's mistress was never Eva Braunn.</h>
+</pair>
+<pair id="147" task="QA" contradiction="YES">
+<t>Meanwhile, the inquiries spearheaded by Milan magistrates Antonio di Pietro and Gherardo Colombo began to focus on Italy's private and public business sectors.</t>
+<h>Antonio di Pietro is not a magistrate.  </h>
+</pair>
+<pair id="163" task="QA" contradiction="YES">
+<t>Sabena was the former national airline of Belgium, mainly operating from Brussels National Airport, now replaced by SN Brussels Airlines.</t>
+<h>Sabena is not a national airline.</h>
+</pair>
+<pair id="221" task="QA" contradiction="NO">
+<t>Last week, LTTE leader Vilupillai Prabhakaran stated that the rebels are running out of patience and are prepared to go back to war.</t>
+<h>Vilupillai Prabhakaran was never a rebel. </h>
+</pair>
+<pair id="301" task="QA" contradiction="YES">
+<t>The abode of the Greek gods was on the summit of Mount Olympus, in Thessaly.</t>
+<h>Mount Olympus is not in Thessaly. </h>
+</pair>
+<pair id="312" task="QA" contradiction="YES">
+<t>On April 28 1945, at the Piazzale Loreto in Milan, Benito Mussolini and his mistress Clara Petacci were shot and hanged in a spectacle that was photographed repeatedly.</t>
+<h>Mussolini's mistress was not Clara Petacci.</h>
+</pair>
+<pair id="334" task="QA" contradiction="YES">
+<t>The Sears Tower in Chicago, finished in 1974, has 110 stories and is 1,450 feet tall.</t>
+<h>The Sears Tower does not have 110 stories.</h>
+</pair>
+<pair id="375" task="QA" contradiction="NO">
+<t>Nine months later, John Glenn becomes the first American man to orbit the Earth.</t>
+<h>John Glenn was not the first man in orbit. </h>
+</pair>
+<pair id="396" task="QA" contradiction="NO">
+<t>If no settlement is reached, a divided Cyprus will join the European Union on May 1, 2004. </t>
+<h>Cyprus will not be divided into two parts on May 1, 2004. </h>
+</pair>
+<pair id="440" task="QA" contradiction="YES">
+<t>Paul Watson, the founder of Greenpeace, will speak on campus Wednesday, March 3.  </t>
+<h>Paul Watson is not the founder of Greenpeace.</h>
+</pair>
+<pair id="443" task="QA" contradiction="YES">
+<t>In the last few days of the war, Mussolini and his mistress, Clara Petacci, tried to escape to Switzerland.</t>
+<h>Mussolini's mistress was not Clara Petacci.</h>
+</pair>
+<pair id="460" task="QA" contradiction="NO">
+<t>When the last member of the Hasmonean Dynasty died in 37 B.C., Rome made Herod king of Judah.  With Roman backing, Herod (37-34 B.C.) ruled on both sides of the Jordan River.  After his death the Jewish kingdom was divided among his heirs and gradually absorbed into the Roman Empire.</t>
+<h>The Hasmonean Dynasty never ruled Jordan. </h>
+</pair>
+<pair id="480" task="QA" contradiction="NO">
+<t>For many years, Sudam was controlled by Jader Barbalho, who was the governor of the state of Para and its senator.</t>
+<h>Jader Barbalho was never the governor of Sudam. </h>
+</pair>
+<pair id="496" task="QA" contradiction="YES">
+<t>Like the corporate logos, the ear is a representation, in mouth-watering chocolate, a delicious reminder of the infamous boxing incident in 1997, when an enraged Mike Tyson bit Holyfield's ear.</t>
+<h>Mike Tyson did not bite Holyfield's ear in 1997.</h>
+</pair>
+<pair id="511" task="QA" contradiction="NO">
+<t>IKEA offers fantastic and affordable solutions for your home furnishing needs.</t>
+<h>Ikea was never a home. </h>
+</pair>
+<pair id="526" task="QA" contradiction="NO">
+<t>The common binding of Catholic faith did little to prevent the Bavarians from slaughtering fellow believers in the 19th century under Prussian Protestant officers.</t>
+<h>19 Bavarians are not Catholic.</h>
+</pair>
+<pair id="538" task="QA" contradiction="NO">
+<t>Today about 75% of people live in cities or towns. Art and culture are an important part of France.</t>
+<h>75 people have never lived in France.</h>
+</pair>
+<pair id="575" task="QA" contradiction="YES">
+<t>In other words, with its 2 million inhabitants, Slovenia has only 5.5 thousand professional soldiers.</t>
+<h>Slovenia has never had 2 million inhabitants. </h>
+</pair>
+<pair id="582" task="QA" contradiction="YES">
+<t>The Chicago Bulls are a National Basketball Association team based in Chicago, Illinois.</t>
+<h>The Bulls basketball team is not based in Chicago, Illinois.</h>
+</pair>
+<pair id="605" task="QA" contradiction="YES">
+<t>Dr. Pridi was forced into exile, and Field Marshal Pibul again assumed power.</t>
+<h>Pibul was never a field marshal. </h>
+</pair>
+<pair id="621" task="QA" contradiction="NO">
+<t>In Africa today, the majority of infected people acquire HIV by the time they are in their 20s or 30s and, on average, die within ten years.</t>
+<h>20-30 percent of people infected with HIV do not live in Africa.</h>
+</pair>
+<pair id="637" task="QA" contradiction="YES">
+<t>IBM is now at the top of my list of where I want to work. Ivy alone had nine interviews when the team visited the company's headquarters in Armonk last week.</t>
+<h>IBM's does not have its headquarters in Armonk.</h>
+</pair>
+<pair id="658" task="QA" contradiction="NO">
+<t>Two young soldiers have killed themselves after falling ill with suspected Gulf War Syndrome, following the latest conflict in Iraq.</t>
+<h>Many US soldiers did not develop Gulf War Syndrome after the Gulf War. </h>
+</pair>
+<pair id="669" task="QA" contradiction="YES">
+<t>On July 8th, the Mozilla team released a configuration change which resolves this problem by explicitly disabling the use of the shell: an external protocol handler.</t>
+<h>A shell is not an external protocol handler.</h>
+</pair>
+<pair id="673" task="QA" contradiction="YES">
+<t>The longest stay in space was 438 days by Valeri Polyakov.</t>
+<h>The record for the longest stay in space, by a human, is not 438 days.</h>
+</pair>
+<pair id="686" task="QA" contradiction="NO">
+<t>Immediately after 1990, however, Swedish fertility plummeted in another unique movement, and had fallen to 1.5 children per woman in 1998 and in 1999. This is the lowest birth rate in Sweden ever-although above the European average.</t>
+<h>Sweden is not the European country with the highest birth rate.</h>
+</pair>
+<pair id="687" task="QA" contradiction="YES">
+<t>As with the Babylonian New Year, the Chinese New Year, which occurred on the 1st of February in 2003, the day before Groundhog Day, is correlated to the beginning of spring.</t>
+<h>The Chinese New Year's Day does not fall on the 1st of February in 2003. </h>
+</pair>
+<pair id="743" task="QA" contradiction="NO">
+<t>Mr. Balasingham will return to his London home and then move on to Sri Lanka in early October to consult with LTTE leader Vilupillai Prabhakaran, diplomats said.</t>
+<h>Vilupillai Prabhakaran is not a diplomat. </h>
+</pair>
+<pair id="761" task="QA" contradiction="NO">
+<t>Apart from the new substances entering the market, the phase out of existing ones, which have been definitely identified as damaging the ozone layer, is far from complete.</t>
+<h>New substances are not damaging the ozone layer. </h>
+</pair>
+<pair id="39" task="SUM" contradiction="NO">
+<t>The 26-member International Energy Agency said, Friday, that member countries would release oil to help relieve the U.S. fuel crisis caused by Hurricane Katrina.  </t>
+<h>The United States has not asked member states of the International Energy Agency to provide oil. </h>
+</pair>
+</entailment-corpus>

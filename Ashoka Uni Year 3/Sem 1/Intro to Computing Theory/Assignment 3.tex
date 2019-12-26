@@ -1,0 +1,88 @@
+\documentclass{article}
+
+\title{Introduction to Coding Theory Assignment 3}
+\author{Divij Singh}
+\date{30/12/18}
+
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+(a)
+00011\\
+(b)
+01101\\
+(c)
+10110\\
+(d)
+00011\\
+(e)
+11000\\
+
+\section{Q2}
+(a)
+00122\\
+(b)
+00122\\
+(c)
+22000\\
+(d)
+20110\\
+
+\section{Q3}
+(a)
+\begin{center}
+\begin{tabular}{ |c|c|c|c|c| }
+\hline
+Received x & d(x,101) & d(x,111) & d(x,011) & Decoding\\
+\hline
+000 & 2 & 3 & 2 & -\\
+\hline
+100 & 1 & 2 & 3 & 101\\
+\hline
+110 & 2 & 1 & 2 & 111\\
+\hline
+111 & 1 & 0 & 1 & 111\\
+\hline
+011 & 2 & 1 & 0 & 011\\
+\hline
+001 & 1 & 2 & 1 & -\\
+\hline
+010 & 3 & 2 & 1 &011\\
+\hline
+101 & 0 & 1 & 2 &101\\
+\hline
+\end{tabular}
+\end{center}
+(b)
+\begin{center}
+\begin{tabular}{ |c|c|c|c|c|c| }
+\hline
+Received x & d(x,000) & d(x,001) & d(x,010) & d(x,011) & Decoding\\
+\hline
+000 & 0 & 1 & 1 & 2 & 000\\
+\hline
+100 & 1 & 2 & 2 & 3 &000\\
+\hline
+110 & 2 & 3 & 1 & 2 & 010\\
+\hline
+111 & 3 & 2 & 2 & 1& 011\\
+\hline
+011 & 2 & 1 & 1 & 0 & 011\\
+\hline
+001 & 1 & 0 & 2 & 1 & 001 \\
+\hline
+010 & 1 & 2 & 0 & 1 & 010\\
+\hline
+101 & 2 & 1 & 3 & 2 & 001\\
+\hline
+\end{tabular}
+\end{center}
+
+\section{Q4}
+There are $n-1$ codes, each with 2 codewords. 
+
+	
+\end{document}

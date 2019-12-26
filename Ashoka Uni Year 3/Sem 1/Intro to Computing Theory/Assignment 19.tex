@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\title{Introduction to Coding Theory Assignment 19}
+\author{Divij Singh}
+\date{14/04/19}
+
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+	(a) \\
+$z_1 = \alpha^3, z_2 = \alpha^{11} = \alpha^3 + \alpha^2 + \alpha$\\
+$\beta = \frac{z_2}{z_1^3} + 1\\
+= \alpha^2 + 1$\\
+$=$ [1 0 1 0]. $\begin{bmatrix} 1\\ \alpha \\ \alpha^2 \\ \alpha^3 \end{bmatrix}$\\\\
+$\left[ \begin{array}{c}{1} \\ {\alpha} \\ {\alpha^{2}} \\ {\alpha^{3}}\end{array}\right]=\left[ \begin{array}{llll}{1} & {1} & {1} & {1} \\ {1} & {1} & {0} & {0} \\ {0} & {1} & {1} & {0} \\ {1} & {0} & {1} & {1}\end{array}\right] \cdot \left[ \begin{array}{c}{\alpha^{7}} \\ {\alpha^{13}} \\ {\alpha^{13}} \\ {\alpha^{11}}\end{array}\right]$\\\\
+Let $\delta = 0.$ Then with $y_0 = \delta, y_1 = y_0 + b_1, y_2 = y_1 + b_2, y_3 = y_2 + b_3$\\
+$Y = \alpha^{11}$, $x = z_1 Y = \alpha^3 + 1 = i$\\\\
+Thus $i= \alpha^3 + 1,j = 1$\\\\\\
+(b)\\
+$z_1 = \alpha^3 + \alpha^2, z_2 = \alpha^3 + \alpha^2 + 1$\\
+$\beta =\left[ \begin{array}{llll}{0} & {1} & {1} & {0}\end{array}\right] \cdot \left[ \begin{array}{c}{1} \\ {\alpha} \\ {\alpha^{2}} \\ {\alpha^{3}}\end{array}\right]$\\\\
+$\left[ \begin{array}{c}{1} \\ {\alpha} \\ {\alpha^{2}} \\ {\alpha^{3}}\end{array}\right]=\left[ \begin{array}{llll}{1} & {1} & {1} & {1} \\ {1} & {1} & {0} & {0} \\ {0} & {1} & {1} & {0} \\ {1} & {0} & {1} & {1}\end{array}\right] \cdot \left[ \begin{array}{c}{\alpha^{7}} \\ {\alpha^{13}} \\ {\alpha^{13}} \\ {\alpha^{11}}\end{array}\right]$\\\\
+$Y = y_0\alpha^7 + y_1\alpha^{14} + y_2\alpha^{13} + y_3\alpha^{11} = \alpha^{13}$\\
+Then $x = \alpha + 1$\\
+Thus, $i = \alpha + 1, j = \alpha^3 + \alpha^2 + \alpha + 1$\\
+(c)\\
+$z_1 = \alpha, z_2 = \alpha^{13}$\\
+$\beta =\left[ \begin{array}{llll}{0} & {1} & {1} & {0}\end{array}\right] \cdot \left[ \begin{array}{c}{1} \\ {\alpha} \\ {\alpha^{2}} \\ {\alpha^{3}}\end{array}\right]$\\
+$Y = \alpha^{13}$\\
+$x = \alpha^3 + 1$\\\\
+Thus, $i = \alpha^3 + 1, j = \alpha^3 + \alpha + 1$\\\\\\
+(d)\\
+$z_1 = \alpha^{14}, z_2 = 0$\\
+$\beta =\left[ \begin{array}{llll}{1} & {0} & {0} & {0}\end{array}\right] \cdot \left[ \begin{array}{c}{1} \\ {\alpha} \\ {\alpha^{2}} \\ {\alpha^{3}}\end{array}\right]$\\
+$Y = \alpha^{10}, x = \alpha^3 + \alpha$\\\\
+Thus, $i=\alpha^3 + \alpha, j = \alpha^3$
+
+
+
+\end{document}

@@ -1,0 +1,23 @@
+\documentclass{article}
+
+\title{Algorithms 8}
+\author{Divij Singh}
+\date{01/03/18}
+
+\begin{document}
+
+	\maketitle
+	
+	\section{}
+	Let P be a connected weighted graph. \\
+	At every iteration, we must find an edge that connects a vertex in the subgraph to a vertex outside it. Since P is connected, there is always a path to every vertex.\\
+	Let $Y_1$ be a minnimum spanning tree of graph P. If $Y_1=Y$, then Y is a minnimum spanning tree, else let E be the first edge added during construction of tree Y that is not in $Y_1$, and V be the set of vertices connected by the edge before E.\\
+	Then, one end of E is in V, and one is not. Since $Y_1$ spans the tree of graph P, there is a path in $Y_1$ joining both points. As you follow the path, there will be an edge F that joins a vertex in V to one outside V.\\
+	Since F was not added at the step when edge E was added to Y, we conclude that $w(F) \le w(E)$.\\
+	\\
+	Let tree $Y_2$ be the graph we get from removing F from $Y_1$, and adding edge E to $Y_1$.\\
+	Since we can show that tree $Y_2$ is connected, has the same number of edges as $Y_1$, and the weights of its edges is not greater than $Y_1$, it is also a minimum spanning tree of graph P, and contains edge E and all other edges added while creating set V.\\
+	\\By repeating these steps, we will eventually get a minimum spanning tree of graph P that is identical to tree Y, showing that Y is a minimum spanning tree.\\
+	This allows for the first subset of the sub-region to be expanded into subset X, which we assume as the minimum.
+	
+\end{document}

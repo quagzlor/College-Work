@@ -1,0 +1,11 @@
+﻿latitude,longitude,altitude,geometry,rank,code,name,City,Square root of Passengers,Passengers,Square root of Cargo ,Cargo Tonnage,Ratio Rounded,Ratio of Squares,r_Rank
+28.653458,77.123767,,Point,1,DEL,Indira Gandhi International Airport,Delhi,7596.255393,57703096,925.969222,857419,8,8.203572228,8
+18.96667,72.83333,,Point,2,BOM,Chhatrapati Shivaji International Airport,Mumbai,6719.698282,45154345,884.4710284,782289,8,7.597420454,9
+12.96991,77.59796,,Point,3,BLR,Kempegowda International Airport,Bangalore,4783.449801,22881392,565.1052999,319344,8,8.464705254,7
+13.09,80.27,,Point,4,MAA,Chennai International Airport,Chennai,4285.115401,18362214,599.3471448,359217,7,7.149638466,10
+22.54111,88.33778,,Point,5,CCU,Netaji Subhas Chandra Bose International Airport,Kolkata,3977.378408,15819539,390.4036373,152415,10,10.18786207,5
+17.36667,78.46667,,Point,6,HYD,Rajiv Gandhi International Airport,Hyderabad,3886.21564,15102672,349.1160266,121882,11,11.13158762,3
+9.901199,76.266935,,Point,7,COK,Cochin International Airport,Kochi,2992.564285,8955441,285.4557759,81485,10,10.48346027,4
+23.03,72.58,,Point,8,AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,2721.264779,7405282,276.7706632,76602,10,9.832200957,6
+15.29299,74.030543,,Point,9,GOI,Goa International Airport,Goa,2618.465581,6856362,63.34824386,4013,41,41.33446204,1
+18.52361,73.84778,,Point,10,PNQ,Pune International Airport,Pune,2605.262175,6787391,187.9148743,35312,14,13.86405512,2

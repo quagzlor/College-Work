@@ -1,0 +1,105 @@
+\documentclass{article}
+\usepackage{amsmath}
+\title{Introduction to Coding Theory Assignment 5}
+\author{Divij Singh}
+\date{07/01/19}
+
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+$00 \rightarrow 0000$\\
+$01 \rightarrow 0121$\\
+$02 \rightarrow 0212$\\
+$10 \rightarrow 1022$\\
+$11 \rightarrow 1110$\\
+$12 \rightarrow 1201$\\
+$20 \rightarrow 2011$\\
+$21 \rightarrow 2102$\\
+$22 \rightarrow 2220$\\
+\begin{center}
+\begin{tabular}{|c| c c c c c c c c c |c|}
+\hline
+Message  & 00     & 01     & 02    & 10    & 11     &12     & 20     & 21    & 22     & Syndrome\\
+\hline
+codeword            & 0000 & 0121 & 0212 & 1022 & 1110 & 1201 & 2011 & 2102 & 2220 & $\begin{pmatrix}0\\0\end{pmatrix}$\\
+\hline
+codeword + 0001 & 0001 & 0122 & 0210 & 1020 & 1111 & 1202 & 2012 & 2100 & 2221 & $\begin{pmatrix}0\\1\end{pmatrix}$\\
+\hline
+codeword + 0002 & 0002 & 0120 & 0211 & 1021 & 1112 & 1200 & 2010 & 2101 & 2222 & $\begin{pmatrix}0\\2\end{pmatrix}$\\
+\hline
+codeword + 0010 & 0010 & 0101 & 0222 & 1002 & 1120 & 1211 & 2021 & 2112 & 2200 & $\begin{pmatrix}1\\0\end{pmatrix}$\\
+\hline
+codeword + 0011 & 0011 & 0102 & 0220 & 1000 & 1121 & 1212 & 2022 & 2110 & 2201 & $\begin{pmatrix}1\\1\end{pmatrix}$\\
+\hline
+codeword + 0012 & 0012 & 0100 & 0221 & 1001 & 1122 & 1210 & 2020 & 2111 & 2202 & $\begin{pmatrix}1\\2\end{pmatrix}$\\
+\hline
+codeword + 0020 & 0020 & 0111 & 0202 & 1012 & 1100 & 1221 & 2001 & 2122 & 2210 & $\begin{pmatrix}2\\0\end{pmatrix}$\\
+\hline
+codeword + 0021 & 0021 & 0112 & 0200 & 1010 & 1101 & 1222 & 2002 & 2120 & 2211 & $\begin{pmatrix}2\\1\end{pmatrix}$\\
+\hline
+codeword + 0022 & 0022 & 0110 & 0201 & 1011 & 1102 & 1220 & 2000 & 2121 & 2212 & $\begin{pmatrix}2\\2\end{pmatrix}$\\
+\hline
+\end{tabular}
+\end{center}
+\section{Q2}
+$000 \rightarrow 000000$\\
+$001 \rightarrow 001110$\\
+$010 \rightarrow 010101$\\
+$011 \rightarrow 011011$\\
+$100 \rightarrow 100011$\\
+$101 \rightarrow 101101$\\
+$110 \rightarrow 110110$\\
+$111 \rightarrow 111000$\\
+\begin{center}
+\begin{tabular}{|c|c c c c c c c c |c|}
+\hline
+Message & 000 & 001 & 010 & 011 & 100 & 101 & 110 & 111 & Syndrome\\
+\hline
+codeword               & 000000 & 001110 & 010101 & 011011 & 100011 & 101101 & 110110 & 111000 & $\begin{pmatrix}0\\0\\0\end{pmatrix}$\\
+\hline
+codeword + 000001 & 000001 & 001111 & 010100 & 011010 & 100010 & 101101 & 110111 & 111001 & $\begin{pmatrix}0\\0\\1\end{pmatrix}$\\
+\hline
+codeword + 000010 & 000010 & 001100 & 010111 & 011001 & 100001 & 101110 & 110100 & 111010 & $\begin{pmatrix}0\\1\\0\end{pmatrix}$\\
+\hline
+codeword + 000011 & 000011 & 001101 & 010110 & 011000 & 100000 & 101111 & 110101 & 111011 & $\begin{pmatrix}0\\1\\1\end{pmatrix}$\\
+\hline
+codeword + 000100 & 000100 & 001010 & 010001 & 011111 & 100111 & 101000 & 110010 & 111100 & $\begin{pmatrix}1\\0\\0\end{pmatrix}$\\
+\hline
+codeword + 000101 & 000101 & 001011 & 010000 & 011110 & 100110 & 101001 & 110011 & 111101 & $\begin{pmatrix}1\\0\\1\end{pmatrix}$\\
+\hline
+codeword + 000110 & 000111 & 001001 & 010010 & 011100 & 100100 & 101011 & 110001 & 111111 & $\begin{pmatrix}1\\0\\1\end{pmatrix}$\\
+\hline
+codeword + 000111 & 000101 & 001011 & 010000 & 011110 & 100110 & 101001 & 110011 & 111101 & $\begin{pmatrix}1\\1\\1\end{pmatrix}$\\
+\hline
+\end{tabular}
+\end{center}
+\section{Q3}
+Let us take a code $C$, such that $ C = {c_1,c_2,c_3,...c_n}$\\\\
+We can define its cosets as $C_1$ and $C_2$, such that $C_1 = {x_1,x_2,...x_n}$ and $C_2 = {y_1,y_2,...y_n}$ and that $x_i = y_j$ for some $1 \leq i,j \leq n$\\\\
+We can express $x_i$ as $x_i = x_1 + z_i$ and $y_j = y_1 + z_j$, giving us $z_i + x_1 = z_j + y_1$\\\\
+$z_i - z_j = y_1 = x_1$, which means $y_1 - x_1$ belong to C.\\\\
+Let us have $y_1 - x_1 = z_k$ for some $k$. \\\\
+This gives us $x_k = y_1 - x_1 + x_1 = y_k$\\\\
+As the cosets are linear, $C_1$ and $C_2$ must be equal if there is a point of intersection between them.\\\\
+If they are not equal, there is no point of intersection, this they are disjoint.
+
+\section{Q4}
+Let us take a binary linear code as $C$, where $C = {c_1,c_2...c_n}$\\
+For $a \notin C$, let the code be $X$, where $X = C \cup (a+C)$\\\\
+Let us take two variables, $x$ and $y$, such that $x,y \in X$\\
+Now, there are three cases where $x,y \in X$\\
+\\
+1. $x,y \in C$: Then we know that $x+y \in C$ as C is a linear code.\\\\
+2. $x \in C, y \in (a+C)$: Then we know that $y = a + z_i$ for some $i$ (from the previous question)\\\\
+So thus far we have $x + y = x + a + z_i$ which can be written as $x + y = z_k + a$ ($z_k = x + z_i, and c_k \in C$ as $C$ is linear)\\
+$c_k + a \in a + C$\\\\
+3. $x,y \in (a+C)$: We can take $x = z_i +a$ and $y = z_j + a$\\
+This gives us $x + y = z_i + z_j + 2a$, which means that $z_i + z_j \in C$, as the code is binary.\\\\
+Thus, $C \cup (a+C)$ is a binary linear code if $C$ is.\\\\
+Now, what if $C$ is not a binary code, but, say, a ternary code?\\\\
+Let us return to the formula $x + y = z_i + z_j + 2a$\\
+In this case, the a does not cancel out, leaving us with $z_i + z_j + 2a \notin C$
+\end{document}

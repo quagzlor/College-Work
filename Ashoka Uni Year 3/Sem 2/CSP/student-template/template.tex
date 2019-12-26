@@ -1,0 +1,46 @@
+\documentclass{302}
+\usepackage{amsmath}
+\usepackage{seqsplit}
+
+\author{Divij Singh}
+\problem{5}
+% \problem{A} means Problem Set A.
+\collab{Mayukh, Jyotica}
+% or give names, e.g., \collab{Alyssa P. Hacker and A. Student}
+\usepackage{xcolor}
+\usepackage{pagecolor}
+
+% comment the two lines below to have 
+% black text white background
+% But your submission should be black background 
+% white text
+\pagecolor{black}
+\color{white}
+
+\begin{document}
+
+\section*{Death is a Preferable Alternative to Communism}
+Here's how we solved the hunt:\\\\
+0. We wrote the program, and got a bitstring as follows:\\
+11111001 10001001 11101011 00001111 11110100 11110000 00011001 (program attached)\\\\
+1. We used this as a key for the DES program, getting the message:\\
+golookforaclue/in712/ithappenstobe/inonelessthantwo\\
+1.1 Using this, we went to room 712 in SH1, where a message was posted on the door:\\
+To proceed, remember the very second clue. For the level after, do your reading. That is the protocol (drop the s, all small).\\
+1.2 We solved the second cryptographic puzzle in pset2, with the answer of  'shannon'. This led us to level 2.\\\\
+2. We used the key 'kerbero' to decrypt the given bitstring via DES, where we got a clue to look for:\\
+A big red pole between two academic blocks (paraphrased)\\
+2.1 Once there, we received a clue to:\\
+Find the important bits (paraphrased)\\
+2.2 Using that, we took the first bit of each byte in the input, taking us to the next round.\\\\
+3. We used the caeser cipher on the ciphertext, giving us a message in frnech:\\
+Wrong path (translated)\\
+3.1 We then filled out the feedback form, where we got a key before the submit button:\\
+xxDvvDxxDvvD\\
+3.2 We entered this, and reach level 4.\\\\
+4. We broke the Vigenere cipher with the key 'ending'. We placed a note in the drawer in SH1, and then entered the answer:\\
+hard.\\\\
+And that's all, folks.
+ 
+
+\end{document}

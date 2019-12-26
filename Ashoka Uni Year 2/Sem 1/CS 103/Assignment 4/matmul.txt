@@ -1,0 +1,56 @@
+Matrix Multiplication
+=====================
+
+In this assignment, we will implement different versions of matrix
+multiplication, and measure their performance. For simplicity, we will
+work only with square matrices.
+
+A, B, and C are all 'n X n' floating-point matrices. Assume that C is
+already initialized to zero. Standard 3-for-loop version of matmul is
+as follows:
+
+for (int i = 0; i < n; i ++)
+    for (int j = 0; j < n; j ++)
+    	for (int k = 0; k < n; k ++)
+	    c[i][j] += a[i][k] * b[k][j];
+
+
+We will measure performance in terms of FLOPS (float operations per
+second). As we discussed in the class, the number of float operations
+in matrix multiplication is 2*n^3. So, to measure FLOPS, you will have
+to measure the time taken by the above computation. If the computation
+takes t seconds, FLOPS = 2*n^3 / t.
+
+Measuring time: To measure the time taken by the computation, run the
+computation twice, and measure the second run. Example shown below.
+
+// First run
+
+for (int i = 0; i < n; i ++)
+    for (int j = 0; j < n; j ++)
+    	for (int k = 0; k < n; k ++)
+	    c[i][j] += a[i][k] * b[k][j];
+
+
+// Second run. Measure time taken by this.
+
+gettimeofday(&start, NULL);
+
+for (int i = 0; i < n; i ++)
+    for (int j = 0; j < n; j ++)
+    	for (int k = 0; k < n; k ++)
+	    c[i][j] += a[i][k] * b[k][j];
+
+gettimeofday(&end, NULL);
+
+
+There are six different ways in which the loop can be ordered. For n =
+32, 128, 512, 2048: measure the FLOPS of each one of the different
+ways of ordering the loop.
+
+q1) Plot the FLOPS graph for the results of the above experiment.
+
+q2) Is there a difference in FLOPS between different orderings for
+each n?
+
+q3) Is there a difference in FLOPS between different values of n?

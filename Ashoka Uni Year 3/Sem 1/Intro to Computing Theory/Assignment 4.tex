@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage{amsmath}
+\title{Introduction to Coding Theory Assignment 4}
+\author{Divij Singh}
+\date{05/01/19}
+
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+(a) C is not a linear code, with $d(C) = 1$\\
+(b)\\
+The generator matrix will be a one row matrix of length N, with each value being 1.\\
+So, if $N=3$\\
+G = 
+\[
+\begin{bmatrix}
+1 & 1 & 1\\
+\end{bmatrix}
+\]
+and since $G = [I_k | -A^{tr}]$ we get P =
+\[
+\begin{bmatrix}
+1&0&1\\
+0&1&1\\
+\end{bmatrix}
+\]
+(c)\\
+For this, the Generator matrix will have N columns, and N-1 rows.\\ Thus for N = 4 G =
+\[
+\begin{bmatrix}
+1&0&0&1\\
+0&1&0&1\\
+0&0&1&1\\
+\end{bmatrix}
+\]
+and the parity check matrix P = 
+\[
+\begin{bmatrix}
+1&1&1&1\\
+\end{bmatrix}
+\]
+\section{Q2}
+(a)\\
+$00 \rightarrow 0000$\\
+$01 \rightarrow 0121$\\
+$02 \rightarrow 0212$\\
+$10 \rightarrow 1011$\\
+$11 \rightarrow 1110$\\
+$12 \rightarrow 1201$\\
+$20 \rightarrow 2011$\\
+$21 \rightarrow 2102$\\
+$22 \rightarrow 2220$\\
+$d(C) = 3$\\\\
+(b) It is a linear code, with $d(C)= 4$
+	
+\end{document}

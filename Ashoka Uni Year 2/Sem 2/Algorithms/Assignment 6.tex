@@ -1,0 +1,50 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+
+\title{Algorithms 6}
+\author{Divij Singh}
+\date{22/02/18}
+
+\begin{document}
+
+	\maketitle
+	
+	\section{}
+	Consider $lim_{n \rightarrow \infty} \frac{n^b}{a^n}$\\
+	We can apply L'Hopital's rule, we get $lim_{n \rightarrow \infty} \frac{bn^{b-1}}{a^nln|a|}$\\
+	Applying the rule $b-1$ times: $\frac{b!}{ln^b a} lim_{n \rightarrow \infty}\frac{1}{a^n}$\\
+	Applying the limit: $\frac{b!}{ln^ba} * \frac{1}{a^{\infty}} = \frac{b!}{ln^ba} * 0=0$\\
+	\\
+	Thus, using the definition of o, we can conclude that since $lim_{n \rightarrow \infty} \frac{n^b}{a^n} =0$, $n^b = o(a^n)$
+	
+	\section{}
+	To prove: $lim_{n \rightarrow \infty} \frac{lg^an}{n^b} = 0$\\
+	Using L'Hopital's $a+1$ times, we get: $\frac{a!}{b^a} lim_{n \rightarrow \infty} \frac{1}{n^b}$\\
+	Applying limits, we get: $ \frac{a!}{b^a} * 0 = 0$\\
+	\\
+	Q.E.D
+	
+	\section{}
+	To prove: $lim_{n \rightarrow \infty} \frac{n!}{n^n} = 0$\\
+	Via Sterling's approximation of $n!$, we know that: $n! = \sqrt{2 \pi} * n^{1/2} * (\frac{n}{c})^n * (1+ \frac{c}{n})$\\
+	Applying that to our equetion, we get: $lim_{n \rightarrow \infty} \frac{n!}{n^n} = \sqrt{2 \pi} (lim_{n \rightarrow \infty} \frac{n^{1/2}}{c^n})$\\
+	We know from Q1 that $lim_{n \rightarrow \infty} \frac{n^{1/2}}{c^n} =0$, leaving us with $ \sqrt{2 \pi}*0 = 0$\\
+	Q.E.D
+	
+	\section{}
+	To prove: $lim_{n \rightarrow \infty} \frac{n!}{2^n} = \infty$\\
+	Again we use Sterling's approximation, getting:\\
+	 $lim_{n \rightarrow \infty} \frac{n!}{2^n} = \sqrt{2 \pi} lim_{n \rightarrow \infty} \frac{n^n}{(2e)^n} * \sqrt{n}+ \theta*lim_{n \rightarrow \infty} \frac{n^{n-0.5}}{(2e)^{n-0.5}} * 2e^{0.5}$\\
+	\\
+	Applying limits, we get: $\sqrt{2 \pi} * \infty + \infty = \infty$\\
+	Q.E.D
+	
+	\section{}
+	
+	\section{}
+	The order is as follows: $ \frac{n}{logn} ; 2 ^{\sqrt{lg(n)}} ; 2^{lg(n)} ; \frac{n}{lg(n)} ; n^n$
+	
+	\section{}
+	
+\end{document}

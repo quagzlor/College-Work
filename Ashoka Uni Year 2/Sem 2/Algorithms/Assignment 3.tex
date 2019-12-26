@@ -1,0 +1,80 @@
+\documentclass{article}
+
+\title{Algorithms 3}
+\author{Divij Singh}
+\date{13/02/18}
+
+\usepackage{listings}
+\lstset{
+	language=Python
+	}
+\begin{document}
+
+	\maketitle
+	
+	\section{Polynomials}
+	
+	\subsection{}
+		def poly(num):\\
+			$P_n (x) = poly(num-1) + a_n * x^n$
+	
+	\subsection{}
+	
+		def poly(num):\\
+			$P_n (x) = poly(num-1) + a_n * x^{n-1} * x$
+			
+	\subsection{}
+		
+		1.\\
+		def poly(num,a,n,x):\\
+		 num[x]=poly(num,(a),(n-1),(x-1)) + $a[n]*(x**n)$\\
+		return num[x]\\
+		\\
+		2.\\
+		def poly(num,a,n,x):\\
+		 num[x]=poly(num,(a),(n-1),(x-1)) + $a[n]*(x**(n-1))*x$\\
+		return num[x]\\
+		\\
+		3.\\
+		def poly(n,x):\\
+		 for i in n\\
+		  p=$(p*x)$+i\\
+		return p\\
+		
+	
+	\section{one-mapping}
+	\subsection{}
+		
+		for i in list array.length do\\
+			if list array[i] is not in mapping array, remove list array[i] and mapping array[i]\\
+		end for\\
+			
+		
+	\subsection{}
+		\begin{lstlisting}
+		def one_one_map(list_array,map_array:
+			i=0
+			while i< len(list_array):
+				is_there=False
+				
+				j=0
+				while j<len(list_array):
+					if list_array[i]==mapping_array[j]:
+						is_there=True
+						
+					j++
+				
+				if is_there!=True:
+					del list_array[i]
+					del mapping_array[i]
+					
+					one_one_map(list_array,mapping_array)
+				i++
+					
+		return list_array
+		\end{lstlisting}
+
+		
+		(list array has the elements of the left side, while mapping array has the corresponding mappings.)
+
+\end{document}

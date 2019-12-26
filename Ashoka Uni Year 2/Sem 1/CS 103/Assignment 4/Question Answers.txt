@@ -1,0 +1,17 @@
+Q1) Graphs are in the folder.
+
+Q2) While orderings 1,2,3 and 5 have small differences, the overall Flops curve remains similar.
+In orderings 4 and 6 however, the curve is dramatically different, with ordering 6 having the similar drop in
+performance of the other orderings, but order 4 actually increasing in performance over time.
+
+Q3) Yes. With the exception of ordering 4, the larger the value of n, the lower the Flops.
+
+Peak flops for my CPU:
+CPU: Intel i7-6700HQ
+Peak Flops: 47.09 GFlops
+
+Process for finding the information:
+Went to Intel's support page. Found my processor family, then clicked on 'Product Information and Documentation'.
+Tried to find my processor and could not.
+So gave that up and just googled 'i7 6700HQ Flops'
+Found a result on sisoftware.net that told me it's 47.09 GFlops for General Matrix Multiplication.

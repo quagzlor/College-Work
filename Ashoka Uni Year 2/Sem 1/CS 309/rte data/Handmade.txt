@@ -1,0 +1,100 @@
+1	The dough used for pancakes is thin.	The dough used for pancakes is thick.	42	
+2	She showed him my ugly picture.	She showed him my handsome picture.	42	CONTRADICTION
+3	I only need the healthy half.	I only need the bad half.	42	CONTRADICTION
+4	I can't confidently tell you yet.	I can't diffidently tell you yet.	42	CONTRADICTION
+5	I need to be sure.	I do not need to be sure.	42	CONTRADICTION
+6	I am no match for your skill at tennis.	I am no match for your poor skills at tennis.	42	CONTRADICTION
+7	The Knights of the Round Table gathered around the table.	The Knights of the Round Table gathered within the table.	42	CONTRADICTION
+8	There are some sandwiches here.	There are no sandwiches here.	42	CONTRADICTION
+9	I prefer to do it by myself.	I prefer to do it with others.	42	CONTRADICTION
+10	I promise you I'll come quickly.	I promise you I'll come slowly.	42	CONTRADICTION
+11	I'm not angry.	I'm not calm.	42	CONTRADICTION
+12	His behavior did not correspond with his words.	His behavior corresponded with his words.	42	CONTRADICTION
+13	I don't want to interfere with your personal life.	I don't want to avoid your personal life.	42	CONTRADICTION
+14	We appreciated your helping out.	We appreciated your messing up.	42	CONTRADICTION
+15	Norway is the richest country in the world.	Norway is the poorest country in the world.	42	CONTRADICTION
+16	Tom has to take this important call.	Tom has to take this unimportant call.	42	CONTRADICTION
+17	Do you have a small room of your own?	Do you have a large room of your own?	42	CONTRADICTION
+18	This is one of the oldest schools in Boston.	This is one of the newest schools in Boston.	42	CONTRADICTION
+19	I've been thinking about Tom a lot.	I've been thinking about Tom a little.	42	CONTRADICTION
+20	What did they say first?	What did they say last?	42	CONTRADICTION
+21	I ate the pork even though it was undercooked.	I ate the pork even though it was overcooked.	42	CONTRADICTION
+22	I suppose that makes some sense.	I suppose that makes no sense.	42	CONTRADICTION
+23	Germany lies at the centre of Europe.	Germany lies outside of Europe.	42	CONTRADICTION
+24	Tom has bad eyes.	Tom has good eyes.	42	CONTRADICTION
+25	Tom listened intently for a minute.	Tom listened casually for a minute.	42	CONTRADICTION
+26	I assume that Tom would like to go to Boston with us.	I assume that Tom would dislike to go to Boston with us.	42	CONTRADICTION
+27	He likes to play tennis.	He hates to play tennis.	42	CONTRADICTION
+28	I had some.	I had none.	42	CONTRADICTION
+29	Tom didn't want to pay that much.	Tom didn't want to pay that little.	42	CONTRADICTION
+30	Many people in England would like to see the public subsidy of the monarchy abolished.	Many people in England would like to see the public subsidy of the monarchy continued.	42	CONTRADICTION
+31	Tom and Mary are in agreement.	Tom and Mary are in disagreement.	42	CONTRADICTION
+32	Nobody goes in there slow.	Nobody goes in there fast.	42	CONTRADICTION
+33	Tom is still in a deep coma.	Tom is still in a light coma.	42	CONTRADICTION
+34	We both did really well.	We both did really badly.	42	CONTRADICTION
+35	Tom wasn't even here yesterday.	Tom was here yesterday.	42	CONTRADICTION
+36	They have seen better days.	They haven't seen better days.	42	CONTRADICTION
+37	This strong box was made by Tony.	This weak box was made by Tony.	42	CONTRADICTION
+38	I want to make him proud of me.	I want to make him ashamed of me.	42	CONTRADICTION
+39	Tom and Mary's relationship became strained.	Tom and Mary's relationship became easy.	42	CONTRADICTION
+40	Snoopy is a great name.	Snoopy is a terrible name.	42	CONTRADICTION
+41	I think it's over.	I think it's started.	42	CONTRADICTION
+42	It concerns my brother.	It does not concerns my brother.	42	CONTRADICTION
+43	Tom is well paid for what he does.	Tom is poorly paid for what he does.	42	CONTRADICTION
+44	Tom wondered why Mary seemed so depressed.	Tom wondered why Mary seemed so happy.	42	CONTRADICTION
+45	I want to die.	I want to live.	42	CONTRADICTION
+46	I ran faster than Tom.	Tom ran faster than I.	42	CONTRADICTION
+47	My father neither drinks nor smokes.	My father drinks and smokes.	42	CONTRADICTION
+48	I won first prize.	I lost first prize.	42	CONTRADICTION
+49	Mary slept soundly.	Mary slept badly.	42	CONTRADICTION
+50	He was the first man in history to do this.	He was the last man in history to do this.	42	CONTRADICTION
+51	He gives simple explanations.	He gives complex explanations.	42	CONTRADICTION
+52	Turn cell phone ringers off.	Turn cell phone ringers on.	42	CONTRADICTION
+53	Tom will easily take care of it.	Tom will take care of it with difficulty.	42	CONTRADICTION
+54	Dan shaved his head and joined a peaceful group.	Dan shaved his head and joined a violent group.	42	CONTRADICTION
+55	Tom cleaned himself.	Tom dirtied himself.	42	CONTRADICTION
+56	My big sister showers every day.	My big sister showers one a week.	42	CONTRADICTION
+57	I was going to tell you everything.	I was going to tell you nothing.	42	CONTRADICTION
+58	Tom gave you something for me.	Tom give you nothing for me.	42	CONTRADICTION
+59	That's how we do it properly.	That's how we do it badly.	42	CONTRADICTION
+60	The calculator on the table is mine.	The calculator on the table is not mine.	42	CONTRADICTION
+61	I'd better go find Tom quickly.	I'd better go find Tom slowly.	42	CONTRADICTION
+62	I've told you everything.	I've told you nothing.	42	CONTRADICTION
+63	All of us are busy.	All of us are free.	42	CONTRADICTION
+64	I wrote a love letter last night.	I wrote a hate letter last night.	42	CONTRADICTION
+65	He sends us to the large factory.	He sends us to the small factory.	42	CONTRADICTION
+66	Tom scored three difficult goals.	Tom scored three easy goals.	42	CONTRADICTION
+67	I helped Tom do his homework.	I did not help Tom do his homework.	42	CONTRADICTION
+68	I got here easily.	I got here with difficulty.	42	CONTRADICTION
+69	Men can be infected with HPV.	Men cannot be infected with HPV.	42	CONTRADICTION
+70	We've been fine.	We've been in trouble.	42	CONTRADICTION
+71	Tom did it well.	Tom did it badly.	42	CONTRADICTION
+72	Tom was really popular.	Tom was unpopular.	42	CONTRADICTION
+73	Don't forget me!	Forget me!	42	CONTRADICTION
+74	Tom is wearing a heavy coat and gloves.	Tom is wearing a light coat.	42	CONTRADICTION
+75	"If I were reborn, I would want to learn the violin."	"If I were reborn, I would not want to learn the violin."	42	CONTRADICTION
+76	It's an emergency.	It's not an emergency.	42	CONTRADICTION
+77	Tom has never heard Mary sing.	Tom has often heard Mary sing.	42	CONTRADICTION
+78	It was stiflingly hot.	It was not hot.	42	CONTRADICTION
+79	Tom really wants to come to Boston with us.	Tom does not want to come to Boston with us.	42	CONTRADICTION
+80	Why don't you let me go?	Why do you let me go?	42	CONTRADICTION
+81	I never thought I'd see your face again.	I always thought I'd see your face again.	42	CONTRADICTION
+82	Tom is respected.	Tom is hated.	42	CONTRADICTION
+83	I keep thinking about you.	I never think about you.	42	CONTRADICTION
+84	My cellphone is heavy.	My cellphone is light.	42	CONTRADICTION
+85	That's extra.	That's not extra.	42	CONTRADICTION
+86	That explains plenty.	That explains nothing.	42	CONTRADICTION
+87	I have the small key.	I have the large key.	42	CONTRADICTION
+88	I expected you.	I was surprised by you.	42	CONTRADICTION
+89	He was very nervous.	He was confident.	42	CONTRADICTION
+90	The trail was clearly marked.	The trail was badly marked.	42	CONTRADICTION
+91	Sit down.	Stand up.	42	CONTRADICTION
+92	Carry this.	Don’t carry this.	42	CONTRADICTION
+93	You owe it to everyone.	You owe it to no one.	42	CONTRADICTION
+94	Tom loves men.	Tom hates men.	42	CONTRADICTION
+95	I haven't got books.	I have many books.	42	CONTRADICTION
+96	Alice makes a lot of money.	Alice makes no money.	42	CONTRADICTION
+97	We have a choice.	We have no choice.	42	CONTRADICTION
+98	Tom is dead.	Tom is alive.	42	CONTRADICTION
+99	Susan is rude.	Susan is polite.	42	CONTRADICTION
+100	Something changed.	Nothing changed.	42	CONTRADICTION

@@ -1,0 +1,526 @@
+<entailment-corpus>
+<pair id="001" contradiction="YES" type="negation">
+		<t>Tariq Aziz was not considered a member of Saddam's innermost circle.</t>
+		<h>Tariq Aziz was in Saddam's inner circle.</h>
+</pair>
+<pair id="002" contradiction="YES" type="lexical">
+		<t>Tariq Aziz kept outside the closed circle of Saddam's Sunni Moslem cronies.</t>
+		<h>Tariq Aziz was in Saddam's inner circle.</h>
+</pair>
+<pair id="003" contradiction="YES" type="negation">
+		<t>Tariq Aziz was not one of the most powerful figures in Saddam's regime.</t>
+		<h>Tariq Aziz was prominent in the regime.</h>
+</pair>
+<pair id="004" contradiction="YES" type="lexical">
+		<t>Tariq Aziz retained influence.</t>
+		<h>Aziz had virtually no power.</h>
+</pair>
+<pair id="005" contradiction="YES" type="numeric">
+		<t>Alexandros Yiotopoulos is 58.</t>
+		<h>Alexandros Yiotopoulos is 59 years old.</h>
+</pair>
+<pair id="006" contradiction="YES" type="numeric">
+		<t>213 people were killed.</t>
+		<h>219 people were killed.</h>
+</pair>
+<pair id="007" contradiction="YES" type="WK">
+		<t>Al-zarqawi was Palestinian.</t>
+		<h>Al-zarqawi was Jordanian.</h>
+</pair>
+<pair id="008" contradiction="YES" type="antonym">
+		<t>Al-zarqawi was right-handed.</t>
+		<h>Al-zarqawi was left-handed.</h>
+</pair>
+<pair id="009" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case."</t>
+		<h>Collin Finnerty was arrested on charges of sexual offense.</h>
+</pair>
+<pair id="010" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Two sophomore Duke lacrosse players were arrested.</h>
+</pair>
+<pair id="011" contradiction="YES" type="antonym">
+		<t>Zarqawi did in fact survive the airstrike.</t>
+		<h>Abu Musab al-Zarqawi was killed in an airstrike.</h>
+</pair>
+<pair id="012" contradiction="YES" type="lexical">
+		<t>Zarqawi did in fact survive the airstrike.</t>
+		<h>An airstrike ended al-Zarqawi's life.</h>
+</pair>
+<pair id="013" contradiction="YES" type="WK">
+		<t>Abu Musab al-Zarqawi, was a Jordanian terrorist leader.</t>
+		<h>al-Zarqawi was Palestinian.</h>
+</pair>
+<pair id="014" contradiction="YES" type="antonym">
+		<t>Abu Musab Al-Zarqawi was killed in a U.S. air strike.</t>
+		<h>Zarqawi did in fact survive the airstrike.</h>
+</pair>
+<pair id="015" contradiction="YES" type="negation">
+		<t>The African Union's mandate in Darfur is to monitor the cease-fire, not enforce it.</t>
+		<h>The African Union will have to enforce the peace agreement.</h>
+</pair>
+<pair id="016" contradiction="YES" type="WK">
+		<t>The National Security Agency carries out electronic surveillance of American citizens.</t>
+		<h>The eavesdropping network of the agency [NSA] was directed at foreigners.</h>
+</pair>
+<pair id="017" contradiction="YES" type="negation">
+		<t>The National Security Agency carries out electronic surveillance of American citizens.</t>
+		<h>The eavesdropping network of the agency [NSA] was not directed at U.S. citizens.</h>
+</pair>
+<pair id="018" contradiction="YES" type="numeric">
+		<t>Buffett is giving the Gates foundation about 85 percent of his fortune.</t>
+		<h>The Gates foundation will be responsible for distributing about $31 billion of Buffett's estimated $44 billion estate.</h>
+</pair>
+<pair id="019" contradiction="YES" type="negation">
+		<t>Sudan will grant permission for United Nations peacekeeping forces to take up station in Darfur.</t>
+		<h>Sudan is as adamant as ever that it will never accept U.N. peacekeepers.</h>
+</pair>
+<pair id="020" contradiction="YES" type="factive">
+		<t>Sudan refused to allow U.N. troops in Darfur.</t>
+		<h>Sudan will grant permission for United Nations peacekeeping forces to take up station in Darfur.</h>
+</pair>
+<pair id="021" contradiction="YES" type="lexical">
+		<t>Sudan refused to allow U.N. troops in Darfur.</t>
+		<h>The matter [allowing U.N. troops in Darfur] was open for discussion.</h>
+</pair>
+<pair id="022" contradiction="YES" type="antonym">
+		<t>Sudan refused to allow U.N. troops in Darfur.</t>
+		<h>The Sudanese government supports a U.N. peacekeeping force to replace the overwhelmed African Union force of 7,000.</h>
+</pair>
+<pair id="023" contradiction="YES" type="factive">
+		<t>Sudan refused to allow U.N. troops in Darfur.</t>
+		<h>Sudan was ready to accept U.N. troops.</h>
+</pair>
+<pair id="024" contradiction="YES" type="factive">
+		<t>Sudan refused to allow U.N. troops in Darfur.</t>
+		<h>It [Sudanese government] will accept it [U.N. forces].</h>
+</pair>
+<pair id="025" contradiction="YES" type="factive">
+		<t>The Sudanese government has refused to allow U.N. peacekeepers to replace the overmatched African Union force now in place.</t>
+		<h>The Sudanese government supports a U.N. peacekeeping force to replace the overwhelmed African Union force of 7,000.</h>
+</pair>
+<pair id="026" contradiction="YES" type="negation">
+		<t>Sudan is as adamant as ever that it will never accept U.N. peacekeepers .</t>
+		<h>It [Sudanese government] supports a U.N. peacekeeping force to replace the overwhelmed African Union force of 7,000.</h>
+</pair>
+<pair id="027" contradiction="YES" type="negation">
+		<t>Sudan is as adamant as ever that it will never accept U.N. peacekeepers.</t>
+		<h>It [Sudanese government] will accept it [U.N. forces].</h>
+</pair>
+<pair id="028" contradiction="YES" type="negation">
+		<t>Sudan was ready to accept U.N. troops.</t>
+		<h>Sudan is as adamant as ever that it will never accept U.N. peacekeepers.</h>
+</pair>
+<pair id="029" contradiction="YES" type="negation">
+		<t>Sudan was ready to accept U.N. troops.</t>
+		<h>The Khartoum government had not yet granted that [U.N. assessment team into Darfur] permission.</h>
+</pair>
+<pair id="030" contradiction="YES" type="negation">
+		<t>No direct link has been established between the two kidnappings [by Hezbollah and Hamas of Israeli soldiers]</t>
+		<h>Some form of coordination [between the two kidnappings by Hezbollah and Hamas of Israeli soldiers] can't be ruled out.</h>
+</pair>
+<pair id="031" contradiction="YES" type="WK">
+		<t>Evo Morales is the top presidential candidate in Bolivia.</t> 
+		<h>Evo Morales is Bolivian President.</h>
+</pair>
+<pair id="032" contradiction="YES" type="lexical">
+		<t>Evo Morales is a former congressman.</t>
+		<h>Evo Morales is a congressman.</h>
+</pair>
+<pair id="033" contradiction="YES" type="WK">
+		<t>Evo Morales is the new Bolivian President.</t>
+		<h>Evo Morales is a congressman.</h>
+</pair>
+<pair id="034" contradiction="YES" type="numeric">
+		<t>Prime Minister Ariel Sharon underwent five hours of surgery.</t>
+		<h>Sharon underwent nine hours of surgery.</h> 
+</pair>
+<pair id="035" contradiction="YES" type="numeric">
+		<t>Sharon underwent nine hours of surgery.</t>
+		<h>Israeli Prime Minister Ariel Sharon underwent seven hours of emergency surgery.</h>
+</pair>
+<pair id="036" contradiction="YES" type="numeric">
+		<t>FEMA would cut off financing for most rooms by Dec. 1.</t>
+		<h>FEMA set the Dec. 15 and Jan. 7 deadlines for cutting off financing for most rooms.</h>
+</pair>
+<pair id="037" contradiction="YES" type="lexical">
+		<t>Hezbollah fired a rocket that killed eight workers.</t>
+		<h>Hezbollah killed eight Israeli soldiers.</h>
+</pair>
+<pair id="038" contradiction="YES" type="factive">
+		<t>TamilNet reported that a second navy vessel had been sunk.</t>
+		<h>The Sri Lankan military denies that a second navy vessel had been sunk.</h>
+</pair>
+<pair id="039" contradiction="YES" type="numeric">
+		<t>Eighth were detonated.</t>
+		<h>The first of the seven blasts struck.</h>
+</pair>
+<pair id="040" contradiction="YES" type="numeric">
+		<t>Eighth were detonated.</t>
+		<h>The seven train bombs detonated.</h>
+</pair>
+<pair id="041" contradiction="YES" type="numeric">
+		<t>The train bombings killed more than 180 people.</t>
+		<h>The bombings killed 63 people.</h>
+</pair>
+<pair id="042" contradiction="YES" type="numeric">
+		<t>The death toll stood at 48.</t>
+		<h>The death toll was at least 55.</h>
+</pair>
+<pair id="043" contradiction="YES" type="numeric">
+		<t>Seven carefully coordinated blasts ripped through suburban trains.</t>
+		<h>Eighth were detonated.</h>
+</pair>
+<pair id="044" contradiction="YES" type="antonym">
+		<t>A report by Mohammed ElBaradei said that the destruction of the site [Lavisan] raised "the possibility of a concealment effort" by Iran to hide uranium enrichment activities.</t>
+		<h>In his report Mohamed ElBaradei director general of the International Atomic Energy Agency, praised Iran's "transparency and indispensable" cooperation.</h>
+</pair>
+<pair id="045" contradiction="YES" type="lexical">
+		<t>It causes concern that Iran is opting out of its moratorium in the absence of answers to questions, serious questions, from the IAEA [International Atomic Energy Agency].</t>
+		<h>In his report Mohamed ElBaradei director general of the International Atomic Energy Agency, praised Iran's "transparency and indispensable" cooperation.</h>
+</pair>
+<pair id="046" contradiction="YES" type="lexical">
+		<t>It causes concern that Iran is opting out of its moratorium in the absence of answers to questions, serious questions, from the IAEA [International Atomic Energy Agency].</t>
+		<h>"We're pleased, we [International Atomic Energy Agency] got access, it was not restricted. We were allowed to see all the buildings and to take environmental samples."</h>
+</pair>
+<pair id="047" contradiction="YES" type="antonym">
+		<t>Reade Seligmann was arrested.</t>
+		<h>Seligmann was released.</h>
+</pair>
+<pair id="048" contradiction="YES" type="structure">
+		<t>The charge of breach of trust reflected what they said were efforts by Chung Mong-koo tried to enrich himself.</t>
+		<h>The charge of breach of trust reflected what they said were efforts by Chung to enrich his son.</h>
+</pair>
+<pair id="049" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Collin Finnerty was arrested on charges of kidnapping.</h> 
+</pair>
+<pair id="050" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Collin Finnerty was arrested on charges of rape.</h>
+</pair>
+<pair id="051" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Reade Seligmann, 20 was also arrested.</h>
+</pair>
+<pair id="052" contradiction="YES" type="negation">
+	    <t>The Ministers have to be members of Parliament.</t>
+	    <h>The Prime Minister is no longer required to be a member of the parliament.</h>
+</pair>
+<pair id="053" contradiction="YES" type="lexical">
+	    <t>Karnak is the brother of Triton, who endured Terrigenesis before he did.</t>
+	    <h>Karnak is usually attended by his cousins Gorgon and Triton.</h>
+</pair>
+<pair id="054" contradiction="YES" type="lexical">
+	    <t>In a memo dated 25 July 1950, U.S. Air Force Colonel Turner C. Rogers stated that, "The Army has requested that we strafe all civilian refugee parties that are noted approaching our positions. To date, we have complied with the Army request in this respect."</t>
+	    <h>President Bill Clinton expressed U.S. regret over Korean civilian deaths, the U.S. and South Korea issued a joint "statement of mutual understanding" which stated that there were no orders to fire on civilians.</h>
+</pair>
+<pair id="055" contradiction="YES" type="numeric">
+	    <t>Qeshm Island surface is mostly rocky and barren with a small human population of approximately 8,000.</t>
+	    <h>The population of Qeshm Island is about 200,000.</h>
+</pair>
+<pair id="056" contradiction="YES" type="numeric">
+	    <t>The flag is first thought to have been used in 1893 by Conradh na Gaeilge.</t>
+	    <h>In 1858, the Irish Republican Brotherhood adopted the flag as their symbol.</h>
+</pair>
+<pair id="057" contradiction="YES" type="numeric">
+	    <t>The Kuwait Times reported that Hezbollah has buried over 700 fighters with more to follow, August 30.</t>
+	    <h>The Australian reports that Israel has the names of over 430 Hezbollah fighters it killed and estimates total Hezbollah dead at over 800, August 29.</h>
+</pair>
+<pair id="058" contradiction="YES" type="numeric">
+    <t>He was in brief demand as a motivational speaker after his flight and quit his job as a truck driver, but never was able to make much money from his fame; later on in his life, Walters hiked the San Gabriel Mountains and did volunteer work for the United States Forest Service before committing suicide by shooting himself in the heart in Angeles National Forest on October 6, 1988.</t>
+    <h>He was in brief demand as a motivational speaker after his flight and quit his job as a truck driver, but never was able to make much money from his fame; later on in his life, Walters hiked the San Gabriel Mountains and did volunteer work for the United States Forest Service before committing suicide by shooting himself in the heart in Angeles National Forest on October 6, 1993.</h>
+</pair>
+<pair id="059" contradiction="YES" type="numeric">
+    <t>After spending about twelve hours in the sky, though, he came to the conclusion that he would have to shoot a few balloons after all; doing so caused him to descend slowly again, until the balloon's dangling cables got caught in a power line, causing a black out in a Long Beach neighbourhood for 20 minutes, but also allowing Walters to climb down to the ground again.</t>
+    <h>After spending about 45 minutes in the sky, though, he came to the conclusion that he would have to shoot a few balloons after all; doing so caused him to descend slowly again, until the balloon's dangling cables got caught in a power line, causing a black out in a Long Beach neighbourhood for 20 minutes, but also allowing Walters to climb down to the ground again.</h>
+</pair>
+<pair id="060" contradiction="YES" type="numeric">
+    <t>It was brought to ancient Caledonia, on the island known as Alba, by Scotti from what is now Ulster around AD 500.</t>
+    <h>It was brought to ancient Caledonia, on the island known as Alba, by Scotti from what is now Ulster by around the 4th century.</h>
+</pair>
+<pair id="061" contradiction="YES" type="numeric">
+    <t>Wilhelm Maximilian Wundt (August 17, 1832 - August 31, 1920) was a German physiologist and psychologist.</t>
+    <h>Wundt was born August 16, 1832 at Neckarau, in Baden.</h>
+</pair>
+<pair id="062" contradiction="YES" type="negation">
+    <t>"We found the weapons of mass destruction. We found biological laboratories," Mr. Bush told Polish television. "For those who say we haven't found the banned manufacturing devices or banned weapons, they're wrong, we found them."</t>
+    <h>On Sept. 9, 2004, in Pennsylvania, Mr. Bush said: "I recognize we didn't find the stockpiles [of weapons] we all thought were there."</h>
+</pair>
+<pair id="063" contradiction="YES" type="lexical">
+    <t>During the 2000 campaign, George W. Bush argued against nation building and foreign military entanglements. In the second presidential debate, he said: "I'm not so sure the role of the United States is to go around the world and say, 'This is the way it's got to be.'"</t>
+    <h>The United States is currently involved in nation building in Iraq on a scale unseen since the years immediately following World War II.</h>
+</pair>
+<pair id="064" contradiction="YES" type="lexical">
+    <t>During the 2000 election, Mr. Bush called for U.S. troops to be withdrawn from the NATO peacekeeping mission in the Balkans.</t>
+    <h>His administration cites such missions as an example of how America must "stay the course."</h>
+</pair>
+<pair id="065" contradiction="YES" type="lexical">
+    <t>During the 2000 presidential election, Mr. Bush championed free trade.</t>
+    <h>Eyeing campaign concerns that allowed him to win West Virginia,he imposed 30 percent tariffs on foreign steel products from Europe and other nations in March 2002.</h>
+</pair>
+<pair id="066" contradiction="YES" type="lexical">
+    <t>During the 2000 campaign, Mr. Bush said he was against federal intervention regarding the issue of same-sex marriage. In an interview with CNN's Larry King, he said, states "can do what they want to do" on the issue. Vice President Cheney took the same stance.</t>
+    <h>Four year later, this past February, Mr. Bush announced his support for an amendment to the Constitution that defines marriage as being exclusively between men and women. The amendment would forbid states from doing "what they want to do" on same-sex marriage.</h>
+</pair>
+<pair id="067" contradiction="YES" type="negation">
+    <t>"I don't think you can win it," Mr. Bush said of the war on terror in August.</t>
+    <h>Mr. Bush said: "We meet today in a time of war for our country, a war we did not start yet one that we will win." He later added, "we are winning, and we will win."</h>
+</pair>
+<pair id="068" contradiction="YES" type="lexical">
+    <t>Mr. Bush was critical of Al Gore in the 2000 campaign for being part of "the administration that's been in charge" while the "price of gasoline has gone steadily upward." In December 1999, in the first Republican primary debate, Mr. Bush said President Clinton "must jawbone OPEC members to lower prices."</t>
+    <h>As gas topped a record level of $50 a barrel this week, Mr. Bush has shown no propensity to personally pressure, or "jawbone," Mideast oil producers to increase output. A spokesman for the president reportedly said in March that Mr. Bush will not personally lobby oil cartel leaders to change their minds.</h>
+</pair>
+<pair id="069" contradiction="YES" type="lexical">
+    <t>In May 2003, at the first Democratic primary debate, John Kerry said his vote authorizing the president to use force was the "right decision" though he would have "preferred if we had given diplomacy a greater opportunity."</t>
+    <h>But then in January 2004, Kerry began to run as anti-war candidate, saying, "I don't believe the president took us to war as he should have."</h>
+</pair>
+<pair id="070" contradiction="YES" type="lexical">
+    <t> "I know how disheartened Palestinians are by the decision to build the barrier off the Green Line," he told the Arab American Institute National Leadership Conference. "We don't need another barrier to peace. Provocative and counterproductive measures only harm Israelis."</t>
+    <h>But less than a year later, in February 2004, he reversed himself, calling the fence "a legitimate act of self-defense," and saying "President Bush is rightly discussing with Israel the exact route of the fence to minimize the hardship it causes innocent Palestinians."</h>
+</pair>
+<pair id="071" contradiction="YES" type="lexical">
+    <t> Pakistan's Musharraf calls anti-Taliban Northern Alliance forces "butchers" and warns against them taking advantage of U.S.-led bombing in Afghanistan.</t>
+    <h>In Washington, Rumsfeld praises Northern Alliance forces dug in against the Taliban.</h>
+</pair>
+<pair id="072" contradiction="YES" type="numeric">
+    <t> Israel's actions have sparked international protests. The tragedy of Sunday's explosion in Qana that killed more than 50 Lebanese civilians has presented Israel with a dilemma.</t>
+    <h>A preliminary Human Rights Watch investigation into the July 30 Israeli air strike in Qana found that 28 people are confirmed dead thus far, among them 16 children, Human Rights Watch said today.  </h>
+</pair>
+<pair id="073" contradiction="YES" type="numeric">
+    <t> The Israelis say that they "hit dozens of Hezbollah gunmen" but could not give more details.</t>
+    <h>Hezbollah said four of its fighters died, in battles in Kfar Kila, Adiasse and Taibe.</h>
+</pair>
+<pair id="074" contradiction="YES" type="numeric">
+    <t> The Israelis say that they "hit dozens of Hezbollah gunmen" but could not give more details.</t>
+    <h>An Israeli army spokeswoman said troops had killed 20 Hezbollah militants - a claim the group denied. 	</h>
+</pair>
+<pair id="075" contradiction="YES" type="structure">
+    <t> In Damascus, President Bashar al-Assad said Israel had been defeated and Hezbollah had "hoisted the banner of victory".</t>
+    <h>Bush at State department: Hezbollah attacked Israel. Hezbollah started the crisis. And Hezbollah suffered a defeat in this crisis.</h>
+</pair>
+<pair id="076" contradiction="YES" type="numeric">
+    <t>After spending about two hours in the sky, though, he came to the conclusion that he would have to shoot a few balloons after all; doing so caused him to descend slowly again, until the balloon's dangling cables got caught in a power line, causing a black out in a Long Beach neighbourhood for 20 minutes, but also allowing Walters to climb down to the ground again.</t>
+    <h>After spending about twelve hours in the sky, though, he came to the conclusion that he would have to shoot a few balloons after all; doing so caused him to descend slowly again, until the balloon's dangling cables got caught in a power line, causing a black out in a Long Beach neighbourhood for 20 minutes, but also allowing Walters to climb down to the ground again.</h>
+</pair>
+<pair id="077" contradiction="YES" type="antonym">
+    <t> Bush at State department: Hezbollah attacked Israel. Hezbollah started the crisis. And Hezbollah suffered a defeat in this crisis.</t>
+    <h>Last night, Hassan Nasrallah, the Hezbollah leader, said his men had a "strategic, historic victory" over "a confused, cowardly and defeated" enemy.</h>
+</pair>
+<pair id="078" contradiction="YES" type="antonym">
+    <t> Last night, Hassan Nasrallah, the Hezbollah leader, said his men had a "strategic, historic victory" over "a confused, cowardly and defeated" enemy.</t>
+    <h>Bush Insists Hizbullah Lost, U.N. Makes Urgent Appeal to Europe for Peacekeepers. U.S. President George Bush acknowledged Friday that it could take time for the people of Lebanon and the world to view the war between Israel and Hizbullah as a loss for the group.</h>
+</pair>
+<pair id="079" contradiction="YES" type="antonym">
+    <t> UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation.</t>
+    <h>Israel said it was trying to disrupt weapons supplies from Iran and Syria to Hezbollah, and insisted the truce held.</h>
+</pair>
+<pair id="080" contradiction="YES" type="lexical">
+    <t> UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation.</t>
+    <h>Israel insisted it had not breached the ceasefire.</h>
+</pair>
+<pair id="081" contradiction="YES" type="negation">
+    <t> UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation.</t>
+    <h>"We had specific information of arms transfers taking place and we acted to prevent that violation, so that violation is not from the Israeli side - we were responding to a violation of the resolution by Hezbollah," said Israeli spokesman Mark Regev.</h>
+</pair>
+<pair id="082" contradiction="YES" type="WK">
+    <t> Al-Sharq al-Awsat reports that the Israeli raid into the Biqa' was aimed at kidnapping a prominent Hizbullah leader, or possibly recovering captured Israeli soldiers.</t>
+    <h>The Israeli army said the raid was aimed at preventing smuggling of arms from Iran and Syria to Hizbullah. It also said one soldier was killed and two others were wounded in the operation.	</h>
+</pair>
+<pair id="083" contradiction="YES" type="lexical">
+    <t> The report, for instance, quotes Director of National Intelligence John Negroponte saying Iran could have a bomb "sometime between the beginning of the next decade and the middle of the next decade."</t>
+    <h>Yet a full transcript of the June 2 BBC interview from which the quote is drawn shows that Negroponte prefaces that with, "We don't have clear-cut knowledge," and adds that the time frame is just an estimate of when Iran "might be in a position to have a nuclear weapon."</h>
+</pair>
+<pair id="084" contradiction="YES" type="lexical">
+    <t>Considering that Osama bin Laden himself is still reputed to be hiding somewhere along the Afghanistan-Pakistan border and Afghan President Hamid Karzai is desperately dependent on the support of drug lords and warlords to prevent renewed civil war, such claims are a blatant fraud. The senior British military commander in Afghanistan recently described the situation in the country as "close to anarchy" and said NATO forces were "running out of time" to salvage the situation. "The narcotics industry accounts for over one-third of Afghanistan's gross domestic product and poses a threat to that country's stability and emerging democracy," carefully admits a recent U.S. State Department fact sheet.</t>
+    <h>Yet on Tuesday, the White House was once again trumpeting that "we have deprived Al Qaeda of safe haven in Afghanistan and helped a democratic government rise in its place."</h>
+</pair>
+<pair id="085" contradiction="YES" type="lexical">
+    <t> Intelligence sources in Pakistan tell NBC News that Matiur Rehman replaced Amjad Farooqi as head of Lashkar e Jhangvi, the Sunni extremist group founded by Farooqi.</t>
+    <h>Intelligence sources in the U.S. and Pakistan tell NBC News that Maitur Rehman is a low-level militant operating in South Waziristan. He is wanted by the Pakistanis in numerous cases of sectarian violence, but contrary to recent media reports he is not the mastermind of the recent, thwarted London-based plot to blow up airplanes headed for the U.S.</h>
+</pair>
+<pair id="086" contradiction="YES" type="antonym">
+    <t> Intelligence sources in the U.S. and Pakistan tell NBC News that Maitur Rehman is a low-level militant operating in South Waziristan.</t>
+    <h>Jundullah is a new jihadi terrorist organisation, which started operating in the Karachi area three years ago. Maitur Rehman, a 29-year-old Pakistani, from Multan in Punjab, is reported to be the present Amir of Jundullah.</h>
+</pair>
+<pair id="087" contradiction="YES" type="WK_temporal">
+    <t> The most recent National Intelligence Estimate found that Iran's progress toward weapons capability was actually slower than previously thought, and Director of National Intelligence John D. Negroponte says that, in his view, Iran is still four to nine years away from having the bomb.</t>
+    <h>The report, for instance, quotes Director of National Intelligence John Negroponte saying Iran could have a bomb "sometime between the beginning of the next decade and the middle of the next decade."</h>
+</pair>
+<pair id="088" contradiction="YES" type="factive">
+    <t> The US and Europe say Iran is pursuing a clandestine nuclear weapons program - a charge Iran has strongly denied.</t>
+    <h>"The CIA found no conclusive evidence, as yet, of a secret Iranian nuclear weapons program running parallel to the civilian operations that Iran has declared to the International Atomic Energy Agency," Mr Hersh wrote.	</h>
+</pair>
+<pair id="089" contradiction="YES" type="factive">
+    <t> U.S. Defense Secretary Donald Rumsfeld has rejected suggestions Iraq is engulfed in a civil war and accused media of exaggerating the severity of the current situation there.	</t>
+    <h>One of Iraq's most pro-western figures and an ex-prime minister yesterday became the first of its leaders to express what most of his compatriots fear: the country is in the grip of a "terrible" civil war.</h>
+</pair>
+<pair id="090" contradiction="YES" type="factive">
+    <t> A senior American intelligence official said on Monday that the Iranian-backed group Hizbollah had been training members of the Mahdi Army, the Shi'ite militia in Iraq that is headed by Muqtada al-Sadr.</t>
+    <h>Lebanese militant group Hezbollah has denied allegations by US intelligence officials that it has given training to members of Iraqi militias.</h>
+</pair>
+<pair id="091" contradiction="YES" type="numeric">
+    <t> The U.S. military said soldiers were conducting a search of a cluster of buildings in the Thar Thar area when they were fired upon. Two insurgents were killed by gunfire and 18 others, including two women, were killed when the ground troops called in an air strike.</t>
+    <h>Local officials said those killed were civilians -- including eight children.	</h>
+</pair>
+<pair id="092" contradiction="YES" type="antonym">
+    <t> The US military says it has killed 20 suspected al-Qaeda militants in a ground and air assault in central Iraq.</t>
+    <h>Local officials say more than two dozen civilians - including women and children - were killed in the strike.</h>
+</pair>
+<pair id="093" contradiction="YES" type="numeric">
+    <t> Local officials and Iraqi police had said on Friday that they believed 32 civilians had been killed in the attack.</t>
+    <h>The US military had issued a statement on Friday saying that two women were among 20 suspected "al Qaeda terrorists" killed in the operation.</h>
+</pair>
+<pair id="094" contradiction="YES" type="numeric">
+    <t> The US army initially said four people had died during a raid to find an al-Qaeda supporter in which a building collapsed.</t>
+    <h>However, Iraqi police said 11 civilians, including five children and four women, were shot and killed by US troops who then blew up the building.</h>
+</pair>
+<pair id="095" contradiction="YES" type="numeric">
+    <t> The US army initially said four people had died during a raid to find an al-Qaeda supporter in which a building collapsed.</t>
+    <h>New allegations of a massacre involving US troops in Iraq have emerged after the BBC aired footage of an incident in which 11 Iraqi civilians were killed.</h>
+</pair>
+<pair id="096" contradiction="YES" type="numeric">
+    <t> Gunfire erupted in a dorm and classroom at Virginia Tech on Monday, killing at least 32 people and wounding at least 20 others, authorities said.</t>
+    <h>A gunman shot dead up to 31 people and injured at least 21 more in two separate shooting incidents at Virginia Tech in Blacksburg, Va., Monday morning, in what is being called the deadliest campus shooting in U.S. history.</h>
+</pair>
+<pair id="097" contradiction="YES" type="lexical">
+    <t>The Chinese may have calculated that Nato would not dare strike its embassy, but the five-story building was emptied every night of personnel.</t>
+    <h>Despite the fact that the embassy building was evacuated of all nonessential personnel during the hours of darkness to avoid any potential casualties, three Chinese were killed and more than 20 injured.</h>
+</pair>
+<pair id="098" contradiction="YES" type="negation">
+    <t>The American Reform party is not a political party, they do not have ballot access in any state, and they do not run candidates.</t>
+    <h>The American Reform Party is a minor political party in the United States that was formed in a factional split from the larger Reform Party of the United States in October 1997.</h>
+</pair>
+<pair id="099" contradiction="YES" type="factive">
+	<t>John Chipman, the head of The International Insitute for Strategic Studies in London, argued on 1/31/2007 that, "Iran could be only two or three years away from being able to produce a nuclear weapon... Iran had stockpiled 250 tonnes of uranium hexafluoride (UF6), which, when enriched, would be enough for 30 to 50 weapons."</t>
+    <h>Iran is unlikely to have a nuclear weapon by 2010 or earlier, and this does not make the threat imminent.</h>
+</pair>
+<pair id="100" contradiction="YES" type="numeric">
+	<t>Yueng initially testified that she discovered she was pregnant in October 1999.</t>
+	<h>Yueng said that family-planning officials tipped off about her pregnancy came looking for her in February 1999.</h>
+</pair>
+<pair id="101" contradiction="YES" type="WK">
+	<t>At a hearing, Neuens and Kevin Scanlan, the hospital's human resources director, initially testified that Hughes lacked adequate knowledge or experience for the quality control officer job.</t>
+	<h>Neuens and Kevin Scanlan also admitted, however, that Hughes had been working with the chemicals in question since 1980 and that he had been primarily responsible for training employees in the safe use of these chemicals.</h>
+</pair>
+<pair id="102" contradiction="YES" type="numeric">
+	<t>Claimant's application alleged an accident in September 1990. He initially testified to a specific accident in which he hit a pothole causing him to "bottom out" in his seat. The history provided to his treating doctor alleged a specific incident in February or March 1991.</t>
+	<h>In 1992, claimant testified that his pain began getting worse four to five months after treatment in September of 1990. The records of his treating doctor indicated pain with no known trauma.</h>
+</pair>
+<pair id="103" contradiction="YES" type="WK">
+	<t>A common situation is a witness who testifies the light was green at trial.</t>
+	<h>During a prior deposition the witness insisted the light was red.	</h>
+</pair>
+<pair id="104" contradiction="YES" type="antonym">
+	<t>Since Dolan was paid for nine consecutive weeks, the referee for the Appeals Tribunal found payment to Dolan for his waiting week was appropriate.</t>
+	<h>The division argued on appeal that since the referee found Dolan had been overpaid for those two weeks, which would have been weeks eight and nine of his nine consecutive weeks of benefits, Dolan was technically only paid for seven consecutive weeks of benefits, making payment for the waiting week improper.</h>
+</pair>
+<pair id="105" contradiction="YES" type="lexical">
+	<t>At one point Zain had said the blood was the defendant's.</t>
+	<h>At another point, Zain had identified the blood as the victim's.</h>
+</pair>
+<pair id="106" contradiction="YES" type="lexical">
+	<t>In a June 10 deposition, Youssef claimed there is no record documenting increased damaged to the cathedral since the latest report in September 1995, O'Brien said.</t>
+	<h>But on a June 7 videotape submitted to the court, the judge said Youssef identified new cracks that developed after the May 23 quake.</h>
+</pair>
+<pair id="107" contradiction="YES" type="structure">
+	<t>Gregg Miner, the company's general manager, originally stated that it was the management team that selected the supervisor for the RIF.</t>
+	<h>Gregg Miner acknowledged that he probably had been the one to select Whittington for the RIF.</h>
+</pair>
+<pair id="108" contradiction="YES" type="WK_temporal">
+	<t>Dr. Long-Gue Hu, JCMC's chief obstetric/gynecological resident, reviewed the August 13 sonogram but did not detect spina bifida. Hu testified the August 13 sonogram was probably taken at FHC, and he most probably reviewed it on that date.</t>
+	<h>Dr. Long-Gue Hu determined the August 13 sonogram was taken at JCMC, and he probably did not review it until the end of August.</h>
+</pair>
+<pair id="109" contradiction="YES" type="negation">
+	<t>The defendant argued that Likens was not qualified to give either an expert opinion under Ind.Evid.Rule 702 or a lay opinion under Ind.Evid.Rule 701.</t>
+	<h>The court disagreed and found that while Likens was not sufficiently qualified as an expert under Rule 702, he was qualified as a skilled witness under Rule 701.</h>
+</pair>
+<pair id="110" contradiction="YES" type="WK">
+	<t>Official ticket sales for the Cure's tour haven't been released yet.</t>
+	<h>The Cure's management says venues have been selling close to capacity.</h>
+</pair>
+<pair id="111" contradiction="YES" type="WK">
+	<t>Her lawyer, Richard Herman, had previously insisted Knight was a "normal young woman" with no mental problems and said she had written a letter of apology to Zeta-Jones and Douglas.</t>
+	<h>But after the two Hollywood stars delivered chilling testimony at a preliminary hearing in July, Mr Herman told reporters that "what's actually happened is that Catherine Zeta-Jones has driven Dawnette to attempt suicide and the real blood is on her hands".</h>
+</pair>
+<pair id="112" contradiction="YES" type="WK">
+	<t>The hearing was also halted on Thursday, when the defense attorney said his client was still groggy after taking sleeping pills because she wanted a good night's sleep.</t>
+	<h>But on Friday he said it was an attempted suicide by an overdose of barbiturates.</h>
+</pair>
+<pair id="113" contradiction="YES" type="negation">
+	<t>The transition to the younger Mr Lee "will not offer much comfort to those seeking more openness," he said, "his speeches very much resemble his father's."</t>
+	<h>But Steve Chia, one of Singapore's few non-PAP politicians and a vocal government critic, said he expected Mr Lee's leadership to be "more open and consultative", particularly on social issues.</h>
+</pair>
+<pair id="114" contradiction="YES" type="WK_location">
+    <t>When his friends cut the cord that had tied his lawnchair to his jeep, Walters' lawnchair quickly rose to a height of about 16,000 feet (4,876 m); fearing that he might get himself into even deeper trouble, he did not dare shoot any balloons, instead drifting over Los Angeles and crossing the primary approach corridor of Los Angeles International Airport.</t>
+    <h>When his friends cut the cord that had tied his lawnchair to his jeep, Walters' lawnchair quickly rose to a height of about 16,000 feet (4,876 m); fearing that he might get himself into even deeper trouble, he did not dare shoot any balloons, instead drifting over Long Beach and crossing the primary approach corridor of Long Beach airport.</h>
+</pair>
+<pair id="115" contradiction="YES" type="WK">
+    <t>He went on to buy 45 4-foot-diameter weather balloons in an army-navy surplus store, attaching them to his lawnchair and then filling them with helium after donning a parachute and strapping himself to the chair with a pellet gun, a CB radio, some sandwiches, soft drinks, and a camera; however, things did not work out as he had planned.</t>
+    <h>He and his girlfriend purchased 45 four-foot weather balloons and helium tanks at a store called California Toy Time Balloons.</h>
+</pair>
+<pair id="116" contradiction="YES" type="numeric">
+    <t>On 20 January 1986, a military coup led by Major General Justin Metsing Lekhanya deposed the Jonathan government.</t>
+    <h>On 15 January 1986, a military coup led by Major General Justin Metsing Lekhanya deposed the Jonathan government. </h>
+</pair>
+<pair id="117" contradiction="YES" type="numeric">
+    <t>There are five tenses in Low German: Present tense, Preterite, Perfect, Past Perfect, and Future.</t>
+    <h>There are four tenses in Low German: Present tense, Preterite, Perfect, and Pluperfect.</h>
+</pair>
+<pair id="118" contradiction="YES" type="numeric">
+    <t>Historians estimate that about 20% of the white population may have been Loyalists (that is, about 500,000), but there are no exact numbers.</t>
+    <h>Historians estimate that about 5% of the white population may have been Loyalists (that is, about 100,000), but there are no exact numbers.</h>
+</pair>
+<pair id="119" contradiction="YES" type="numeric">
+    <t>However once independence was declared in 1776 Loyalists who continued to support the Crown were treated by the Patriots as traitors who turned against their fellow citizens and collaborated with a foreign army. They were expelled, or disarmed, but none were tried for treason or executed.</t>
+    <h>However relatively few Loyalist civilians are thought to have been killed by mobs; two men in Philadelphia were officially executed for supporting the British.</h>
+</pair>
+<pair id="120" contradiction="YES" type="WK_temporal">
+    <t>Alain Choquet (born October 18, 1901 - dead October 29, 1991 at Saint-Laurent is a Quebec actor and recording artist.</t>
+    <h>In 2002, with Pierre René, Choquet formed Disques La Julienne.</h>
+</pair>
+<pair id="121" contradiction="YES" type="negation">
+    <t>The American Reform Party is a minor political party in the United States that was formed in a factional split from the larger Reform Party of the United States in October 1997.</t>
+    <h>The American Reform Party is not a political party, they do not have ballot access in any state, and they do not run candidates.</h>
+</pair>
+<pair id="122" contradiction="YES" type="WK">
+    <t>On 23 December 1990, less than two weeks before Tammy's 16th birthday, Karla Homolka and her fiancé, Paul Bernardo, plied Tammy with Halcion, a sedative, and raped her.</t>
+    <h>Karla Homolka eventually conceded and obtained a bottle of Halothane (a liquid general anesthetic) from the veterinary clinic where she worked, that would later be used to sedate Tammy during the rape.</h>
+</pair>
+<pair id="123" contradiction="YES" type="lexical">
+    <t>Originally Tarantino's screenplay began with the same "I'd fuck Elvis" scene, set before the opening credits, as the release.</t>
+    <h>The first scene in Tarantino's script is the scene where Drexl steals the cocaine.</h>
+</pair>
+<pair id="124" contradiction="YES" type="lexical">
+    <t>In the book, Suskind writes, among other things, that sources in the intelligence community revealed to him that Abu Zubaydah knew nothing about the operations of al-Qaeda, but rather was al-Qaeda's go-to guy for minor logistics such as travel for wives and children.</t>
+    <h>Abu Zubaydah was, according to American authorities, a high-ranking member of al-Qaeda and close associate of Osama bin Laden, though there are doubts of his power and connections due to the fact that most information came from interrogations where Zubaydah was known to vastly exaggerate his and al-Quaeda's role in international terror.</h>
+</pair>
+<pair id="125" contradiction="YES" type="numeric">
+    <t>The first BBS, ALOHA.net, was created at the University of Hawaii in 1972.</t>
+    <h>Snowed in during The Great Chicago Snowstorm of 1978, Ward Christensen began preliminary work on what would eventually become the first BBS to exist. The first BBS, CBBS, went online on February 16, 1978 in Chicago, Illinois.</h>
+</pair>
+<pair id="126" contradiction="YES" type="numeric">
+    <t>Minesweeper is a single-player computer game invented by Robert Donner in 1989.</t>
+    <h>There was a version on a Tektronix 4051 around 1981, but the tradition of passing around a 'games tape' goes back to at least 1973. This tape even contains a 3D version of minesweeper. The author of this game, David Ahl is a crucial figure in the early history of computer games.</h>
+</pair>
+<pair id="127" contradiction="YES" type="numeric">
+    <t>It has been criticized as pseudoscientific quackery by most professional scientists and members of the medical community.</t>
+    <h>It has been criticized as pseudoscientific quackery by some professional scientists and members of the medical community.</h>
+</pair>
+<pair id="128" contradiction="YES" type="numeric">
+    <t>He became a Field Marshal in the British Army in 1940, and served in the Imperial War Cabinet under Winston Churchill.</t>
+    <h>He became a Field Marshal in the British Army in 1941, and served in the Imperial War Cabinet under Winston Churchill.</h>
+</pair>
+<pair id="129" contradiction="YES" type="structure">
+    <t>Currently, I-75 is 15 lanes wide at the Windy Hill Interchange (8 northbound, 7 southbound), and as such, is the widest freeway in the world.</t>
+    <h>Bisecting the city from west to east across its inner suburbs, Highway 401 (or simply, "the 401") acts as a bypass of the downtown core, and is both the busiest and widest highway in the world.</h>
+</pair>
+<pair id="130" contradiction="YES" type="numeric">
+    <t>In Turkey, there are around 820 higher education institutes including universities, with a total student enrollment of over 1 million.</t>
+    <h>The total capacity of Turkish universities is approximately 300,000.</h>
+</pair>
+<pair id="131" contradiction="YES" type="lexical">
+    <t>Turkey seeks to improve its investment climate through administrative streamlining, an end to foreign investment screening, and strengthened intellectual property legislation.</t>
+    <h>A number of disputes involving foreign investors in Turkey and certain policies, such as high taxation of cola products and continuing gaps in the intellectual property regime, inhibit investment.</h>
+</pair>
+</entailment-corpus>

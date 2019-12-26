@@ -1,0 +1,39 @@
+\documentclass{article}
+
+\title{P\&S Assignment 3}
+\date{04/10/17}
+\author{Divij Singh}
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+	
+	\subsection{}
+		We know that $f(\alpha,\beta) \rightarrow R$\\
+		We take $S = a_1,a_2,...a_n$\\
+		Since we know that $X \in S$, we also know that $\alpha \le X \le \beta$\\
+		$E[f(X)]$ can also be written as $\Sigma_{i=\alpha}^{\beta}  S_i f (X_i)$, where $i \in (\alpha,\beta)$\\
+		Consequently, $f(E[X])$ can also be written as $f(\Sigma_{i=\alpha}^{\beta} S_i X_i)$\\
+		\\
+		Thus, by applying the fact from Definition 1, we know that\\ $f(\Sigma_{i=\alpha}^{\beta} S_i X_i) \le \Sigma_{i=\alpha}^{\beta}  S_i f (X_i)$\\
+		\\
+		I.e, $f(E[X]) \le E[f(X)]$
+	\subsection{}
+		Yeah... no, I don't know this.
+	\subsection{}
+		$E[X] \ge e^{E[\log X]}$\\
+		$E[X]$ can also be written as $\Sigma_{z \in S} aP_x (z)$\\
+		$e^{E[\log X]}$ can also be written as $e^{\Sigma_{z \in S} log(z)P_x (z)}$\\
+		\\
+		$\Sigma_{z \in S} zP_x (z) = (z_1 P_x(z_1) + z_2 P_x(z_2)... a_k P_x(z_k)) = \frac{z_1 + z_2 + z_3 ... z_k}{k}$ (because $P_x = \frac{1}{k}$)\\
+		\\
+		Similarly, $e^{\Sigma_{z \in S} log(z)P_x (z)} = e^{log(z_1)P_x(z_1) ... log(z_k)P_x(z_k)} = e^{\frac{\log (z_1 *z_2 ... * z_k)}{k}}$ (due to properties of logarithms)\\
+		Which becomes $\frac{(z_1 *z_2 ...* z_k)}{k}$ ( because $e^{\log x} = x$)\\
+		Which becomes $(\prod^{k}_{i=1} z_i) \frac{1}{k}$\\
+		\\
+		Thus, $\frac{\Sigma^{k}_{i=1} z_i}{k} \ge (\prod^{k}_{i=1} z_i) \frac{1}{k}$
+	
+		
+\end{document}

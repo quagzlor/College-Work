@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{amssymb}
+
+\title{Introduction to Coding Theory Assignment 6}
+\author{Divij Singh}
+\date{07/01/19}
+
+
+\begin{document}
+\section{Q1}
+The code $C = \{000000, 001110, 010101, 011011, 100011, 101101, 110110, 111000\}$\\
+The are are 7 cosets, and the code itself, with coset leaders being: $\{000000,000001, 000010, 100000, 000100, 010000, 0010000, 001001\}$\\\\
+Let us take crossover probability as $p$.\\\\
+Thus, $P_{error} = 1 - [ (1-p)^6 + p(1-p)^5 + p(1-p)^5 + p(1-p)^5 + p(1-p)^5 + p(1-p)^5 + p(1-p)^5 + p^2(1-p)^4] $\\\\
+Which gives us $1 - [ (1-p)^6 + 6p(1-p)^5 + p^2(1-p)^4]$
+
+\section{Q2}
+For this code, $k=2$, and $n=8$, giving us an information rate of 1/4 .\\
+Let us assume there exists a more optimal code, i.e a [7,2,5] code. We can check this via the Plotkin bound.\\\\
+$M \leq 2 \lfloor \frac{d}{2d-n} \rfloor$\\
+\\
+$ \lfloor \frac{d}{2d-n} \rfloor = 2 \lfloor \frac{5}{10-7} \rfloor = 2 * 1$\\
+$2 \ngtr M$ where $M = 4$\\\\
+Thus the code is optimal, as no [7,2,5] code exists.
+
+\section{Q3}
+For this code, $k=3$, and $n=6$, giving us an information rate of 1/2.\\
+Let us see if a [5,3,3] code exists.\\\\
+$2 \lfloor \frac{3}{6-5} \rfloor = 2 * 3 = 6$\\
+$6 \ngtr M$, where $M = 8$\\\\
+Thus the code is optimal, as no [5,3,3] code exists.
+
+	
+\end{document}

@@ -1,0 +1,28 @@
+There are three questions in this assignment. Two of them are Arduino
+assignments and the third one is a "c" assignment. The Arduino
+assignment must be done is groups and the "c" assignment should be
+done individually.
+
+For the Arduino questions please upload a single zip file containing
+the solution for both the questions. If you have three members in your
+team, name the zip file as "lastname1-lastname2-lastname3-arduino.zip".
+
+For the sum program, upload a single zip file with the name
+"firstname-lastname-sum.zip".
+
+
+1) Exceed
+
+Write an Arduino program that fails to compile due to lack of memory.
+
+2) Binary-blink
+
+Write an Arduino program that blinks out the bits of a value using the
+built-in LED. More details in the starter code inside the assignment
+folder.
+
+3) Sum (must be done individually)
+
+Write a program to perform element-wise sum of two arrays and measure
+the time taken for different values of the size of the array. Submit
+the sum program and the "time vs. array-size" graph (PDF). 

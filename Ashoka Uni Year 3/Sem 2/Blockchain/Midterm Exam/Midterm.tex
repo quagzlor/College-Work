@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage{hyperref}
+
+\title{Blockchain and Cryptocurrencies Midterm Exam}
+\author{Divij Singh}
+\date{14/03/19}
+
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+Using \url{https://www.blockchain.com/btc/tx/1ab040e6c955415a2ea236d115c92862479dac23ce5c26804736b9e96bf94742} to check the txn details, and using Google for currency conversion, we get a value of Rs. 268.58 (as of 8:42 AM, 14/3/19).
+
+\section{Q2}
+Looking at the number of blocks mined for the last two days on \url{https://www.blockchain.com/btc/blocks/1552446855358}, we can see that there have been 142 blocks mined on 13/3/19, and 134 blocks mined on 12/3/19\\
+If we take an average, we get a rate of 138 blocks mined per day. Fast forward to 20/3/19, we can guess there would be roughly $138*7 = 966$ blocks mined by the end of the 20th.\\ 
+Looking at the last block height on 13/3/19, we can estimate that a block mined on 20/3/19 would range in height from 567,772 to  567,910.\\
+Furthermore, looking at the timings of the blocks being mined, they seem to be mined at a rate of roughly 7 blocks per hour.\\
+Thus, we can add the appropriate amount of bitcoins to get an approximate block height at, say, 9 AM by $567,772 + (7*9) = 567,835$ as the block height.
+
+\section{Q3}
+Once again we look at \url{https://www.blockchain.com/en/charts/total-bitcoins?timespan=30days&showDataPoints=true} to see the amount of bitcoins in circulation for the last 30 days. Due to time restrictions, let's consider the rate of increase from 10/3/19 to 12/3/19. (Both amounts taken at 5:30 AM)\\
+Looking at the data points, we see that in 2 days the number of bitcoins has increased by 3,562, i.e 1,781 bitcoins per day. As the graph is roughly linear, we can simply multiply $1,781*4 = 7,124$.\\
+Dividing 1,781 by 48, we get a fractional amount over 37 bitcoins added every half an hour. We simply add $37*7 = 259$ bitcoins to 7,124, and we get an increase of 7,383 bitcoins from the last reading.\\
+This gives us an approximate amount of 17,592,508 bitcoins at 9 AM on 16/3/19.
+
+\section{Q4}
+Using the calculator at \url{https://bitcoinwisdom.com/bitcoin/difficulty}, we can set the difficulty to $6068891541676_{10}$ and the BTC/hour to 1, giving us the needed number of hashes of $5.792 * 10^{14}$ hashes.
+
+\section{Q5}
+Checking on \url{https://live.blockcypher.com/btc-testnet/address/n3WDexiKdJ7RA2xW1Zxx16UpBtuy276Los/}, the address has a balance of 63.97362886 BTC as of 9:27 AM, 14/3/19
+
+\section {Q6}
+A node does not have a chance to do so, as when the UTXO is created, an $LS_{UTXO}$ is also created, which locks the UTXO to a specific address. Thus any node other than the one specified in the $LS_{UTXO}$ will be inable to consume the UTXO, even with the appropriate $ULS_{UTXO}$.
+
+\section{Q7}
+According to \url{https://www.blockchain.com/btc/block-height/500000}, the UTXO is 3.39351625 BTC.
+
+
+\end{document}

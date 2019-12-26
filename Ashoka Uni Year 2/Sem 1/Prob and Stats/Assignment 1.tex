@@ -1,0 +1,99 @@
+\documentclass{article}
+
+\title{P\&S Assignment 1}
+\date{11/09/17}
+\author{Divij Singh}
+
+\begin{document}
+
+	\maketitle
+	
+	\section{Q1}
+	
+		$\sum_{\omega\varepsilon\Omega}|P_1 (\omega_n) - P_2 (\omega_n)=|P_1 (\omega_1) - P_2 (\omega_1)| + |P_1 (\omega_2) - P_2 (\omega_2)| +...+ |P_1 (\omega_n) - P_2 (\omega_n)|$
+		\\
+		\\
+		Let us take $x=P_1 (\omega_n)$ and $y=P_2(\omega_n)$
+		\\
+		\\
+		Which means that we need to show that $|a-b| \le (a+b)$
+		\\
+		\\
+		We can do this using proof by contradiction, i.e. let us prove that $|a-b|>(a+b)$
+		There are two cases:
+		\\
+		\\
+		(1)
+			$a-b<a+b
+			a-a>b+b
+			2b<0$
+			\\
+			\\
+			Which is a contradiction.
+		\\
+		\\
+		(2)
+			$a+b<a+b
+			a+a<b-b
+			2a<0$
+			\\
+			\\
+			Which is a contradiction.
+		\\
+		\\
+		Thus it must be that 
+		$\sum_{\omega\varepsilon\Omega} |P_1 (\omega_1) - P_2 (\omega_1)| + |P_1 (\omega_2) - P_2 (\omega_2)| + |P_1 (\omega_n) - P_2 (\omega_n)|$
+		\\
+		\\
+		Now, we can also write $\sum_{\omega\varepsilon\Omega}|P_1 (\omega_n) - P_2 (\omega_n)|$ as:
+		$\sum P_1(\omega) + \sum P_2(\omega)
+		= 1+1
+		=2$
+		\\
+		\\
+		Thus, we find that $\sum_{\omega\varepsilon\Omega}|P_1 (\omega_n) - P_2 (\omega_n)| \le 2$
+		
+	\section{Q2}
+	
+		We know that in order for 3 events, $A_1$,$A_2$ and $A_3$ to be independent, they must be 
+		 \\
+		 \\
+		 (1) Independent in pairs
+		 	$P(A_x \cap A_y) = P(A_x)P(A_y) for any x \ne y$
+		 \\
+		 \\	
+		(2)And
+			$P(A_1 \cap A_2 \cap A_3) = P(A_1)P(A_2)P(A_3)$
+		\\
+		\\	
+		Now, if we make $\alpha = (A_1 \cap A_2), then P(A_1 \cap A_2 \cap A_3) = P(\alpha \cap A_3) = P(\alpha)P(A_3)$
+		\\
+		\\
+		So, $\alpha$ and $A_3$ are independent.
+		\\
+		\\
+		Now, for where the complement comes in, i.e. $\overline{A_1}$
+		\\
+		\\
+		Using the proof we just showed, we know that the complement of an event is independent from the other two events.
+		So we just have to show that (2) is also satisfied.
+		\\
+		\\
+		So, let $\beta = A_2 \cap A_3$ , and let us partition it using $\overline{A_1}$
+		$\beta = P(\beta \cap A_1) + P(\beta \cap \overline{A_1}$
+		\\
+		\\
+		According to additivity of probability, this means that:
+		$P\beta = P(\beta \cap A_1) + P(\beta \cap \overline{A_1}$
+		\\
+		\\
+		i.e.
+		\\
+		$P(\beta \cap \overline{A_1}) = P(\beta) - P(\beta \cap A_1)$
+		\\
+		\\
+		That is,
+		$P( \overline{A_1} \cap A_2 \cap A_3) = P(A_2 \cap A_3) - P(A_2 \cap A_3)P(A_1) = P(A_2 \cap A_3)(1-P(A_1))$
+		Hence $P(\overline{A_1} \cap A_2 \cap A_3) = P(A_2 \cap A_3)P(\overline{A_1}) = P(\overline{A_1})P(A_2)P(A_3)$
+		
+\end{document}

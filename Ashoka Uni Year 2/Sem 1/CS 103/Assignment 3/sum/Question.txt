@@ -1,0 +1,5 @@
+1) Write a program to compute element-wise sum of two arrays each with
+   "n" integer values and store the result in a third array.
+
+2) Measure the time taken by the just the sum loop for the following
+   values of n: 512, 1024, 512*3, 512*4, ...., 512*512

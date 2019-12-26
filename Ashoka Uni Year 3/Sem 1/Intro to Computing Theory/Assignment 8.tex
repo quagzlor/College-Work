@@ -1,0 +1,56 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\title{Introduction to Coding Theory Assignment 8}
+\author{Divij Singh}
+\date{27/01/19}
+
+
+\begin{document}
+
+	\maketitle
+\section{Q1}
+If $A_q (n,d)$ denotes the maximum size of a q-ary code with length n and distance d, then $A_q (n,d) \geq \frac{q^n}{\sum^{d-1}_{j=0} \begin{pmatrix} n \\ j \end{pmatrix} (q-1)^j}$\\\\
+For an example, let us take $n=4$ and $d=2$ for a binary code\\
+$A_2(n,d) = 8$\\
+$q^n = 16$\\
+$\sum^{d-1}_{j=0} \begin{pmatrix} n \\ j \end{pmatrix} (q-1)^j = 1 + 4.12311$\\
+Taking the floor value of the above, we get $ \frac{16}{5} \leq A_2(n,d)$
+
+
+\section{Q2}
+
+For a binary linear code, the Griesmer bound is: $$n \geq \sum^{k-1}_{i=0} \lceil \frac{d}{2^i} \rceil$$
+	
+	\section{Q3}
+For this, we will be checking each code against the following bounds:\\\\
+Singleton Bound: If $C$ is an [n,k,d] binary code, then $d \leq n-k+1$\\\\
+The Plotkin Bound: if $n < 2d$, $M \leq 2 \lfloor \frac{d}{2d-n} \rfloor$ \\\\
+The Gilbert-Varshamov Bound\\\\
+The Griesmer Bound\\\\
+The Hamming Bound: $M \left(1+\sum_{j=1}^{\left\lfloor\frac{d-1}{2}\right\rfloor} \left( \begin{array}{c}{\mathrm{n}} \\ {\mathrm{j}}\end{array}\right)\right) \leq 2^{n}$\\\\
+(a) From the Hamming bound, we see that $M(1+n) = 261 > 256 (2^n)$\\
+Therefore, no such binary code exists.\\\\
+(b) From the Plotkin bound, we get $M = 8$ ; $2 \lfloor \frac{d}{2d-n} \rfloor = 4$\\
+$M > 4$ therefore no such code exists.\\\\
+(c) Again with the Plotkin bound, we get $2 \lfloor \frac{d}{2d-n} \rfloor = 4, < M$\\
+Thus, no such code exists.\\\\
+(d) This code satisfies the Gilber-Varshamov bound, the Griesmer bound, the Singleton bound, and the Hamming bound.\\
+Therefore, a linear code with these contraints may or may not exist, and if it does, it will be a perfect code.
+\section{Q4}
+This code satisfies the Gilber-Varshamov bound, the Griesmer bound, the Singleton bound, and the Hamming bound.\\
+Therefore, a linear code with these contraints may or may not exist.
+
+\section{Q5}
+This code satisfies the Gilber-Varshamov bound, the Griesmer bound, the Singleton bound, and the Hamming bound.\\
+Therefore, a linear code with these contraints may or may not exist.
+
+\section{Q6}
+This code satisfies the Gilber-Varshamov bound, the Griesmer bound, the Singleton bound, and the Hamming bound.\\
+Therefore, a linear code with these contraints may or may not exist.
+
+\section{Q7}
+This code satisfies the Gilber-Varshamov bound, the Griesmer bound, the Singleton bound, and the Hamming bound.\\
+Therefore, a linear code with these contraints may or may not exist.
+	
+\end{document}
