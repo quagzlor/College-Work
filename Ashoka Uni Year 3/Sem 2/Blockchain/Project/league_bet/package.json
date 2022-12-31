@@ -6,7 +6,7 @@
     "ethereumjs-wallet": "^0.6.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "0.9.5",
+    "react-scripts": "5.0.1",
     "truffle": "^5.0.15",
     "truffle-contract": "^4.0.13",
     "truffle-hdwallet-provider": "^1.0.8",
